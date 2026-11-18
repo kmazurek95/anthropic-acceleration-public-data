@@ -1,0 +1,4 @@
+pair,spearman_all,max_abs_diff_all,model_max_all,mean_diff_all,n_frontier_models_in_window,max_abs_diff_frontier_window,model_max_frontier_window,signed_diff_at_that_model,mean_abs_diff_frontier_window,spearman_frontier_window
+least_squares - epoch_published,0.9989673335873881,33.929665489244414,Cerebras-GPT-13B,3.69655938320984,28,1.6388950470125394,Claude Opus 4.5,-1.6388950470125394,0.5123272113056829,0.9972632731253421
+least_squares - bayes_refit,0.9989256694895856,35.56163037443873,Cerebras-GPT-13B,3.910850454679136,28,1.6167080992941578,Claude Opus 4.5,-1.6167080992941578,0.5028223765636025,0.9972632731253421
+epoch_published - bayes_refit,0.9999797937135003,1.6319648851943143,Cerebras-GPT-13B,0.2142910714692961,28,0.20068141530296657,Claude Fable 5,-0.20068141530296657,0.058450833349981836,0.9999999999999998

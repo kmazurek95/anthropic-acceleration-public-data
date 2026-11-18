@@ -1,0 +1,33 @@
+NOTICE
+
+The code in this repository is licensed under the MIT License (see LICENSE). The notices
+below cover third-party code and data.
+
+Code from eci-public
+- src/fit_bayesian.py adapts three lines from eci-public (https://github.com/epoch-research/eci-public,
+  commit e04929ab), MIT License, Copyright (c) 2025 Epoch AI. The full license text is in
+  LICENSES/eci-public-MIT.txt.
+
+Epoch AI data
+- The analysis reads Epoch AI's "Capabilities & benchmarking" data (benchmark_data.zip),
+  Wayback Machine capture 20261113150458 of https://epoch.ai/data/benchmark_data.zip,
+  SHA-256 b07bd2eb34cc26469ea832daa2b17e6088f127caa3361c0ee78bac1d05671814. The zip is not
+  included in this repository; data/README.md says where to fetch it.
+- Epoch AI's data is licensed under Creative Commons Attribution 4.0 (CC BY 4.0,
+  https://creativecommons.org/licenses/by/4.0/). Citation: Epoch AI, "Capabilities &
+  benchmarking". Published online at epoch.ai. Retrieved from https://epoch.ai/benchmarks.
+- results/ and figures/ contain material derived from that data: Epoch's published ECI
+  scores with model release dates and organizations (results/public_data/), scores refitted
+  with Epoch's eci-public code at commit e04929ab, the refit's per-benchmark difficulty,
+  discriminability and noise estimates (results/bayes_refit/edi_scores_refit.csv), and
+  statistics and charts computed from them. Changes from the original: scores were refitted,
+  models were filtered and dated as described in README.md, and
+  results were summarized. Epoch AI has not reviewed or endorsed this work.
+
+Files from external projects
+- The zip also bundles benchmark results that Epoch collects from other projects, in files
+  named *_external.csv. These files keep their original licenses; Epoch's CC BY 4.0 license
+  does not cover them, and benchmark questions and answers belong to their creators. None of
+  these files is redistributed here, but the refitted scores and per-benchmark estimates are
+  computed from all benchmark files in the zip, including these.
+- Some external files in the zip do not name their source.

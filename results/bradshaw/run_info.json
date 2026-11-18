@@ -1,0 +1,29 @@
+{
+  "input_sha256": "b07bd2eb34cc26469ea832daa2b17e6088f127caa3361c0ee78bac1d05671814",
+  "baseline": {
+    "series": "frontier points",
+    "construction": "full history",
+    "start": "2024-03-01",
+    "end": "2026-10-31",
+    "break": "2025-10-07",
+    "date_rule": "latest metadata date",
+    "source": "epoch_published"
+  },
+  "targets": {
+    "2026-11-10, incl. Fable 5.2": {
+      "Anthropic": 1.24,
+      "All developers": 0.9,
+      "slopes": "Anthropic 17.0 -> 20.9; all labs 18.8 -> 16.8"
+    },
+    "2026-11-05, data from Mar 2024": {
+      "Anthropic": 1.14,
+      "slopes": "Anthropic 17.2 -> 19.6"
+    },
+    "2026-11-05, data from Dec 2023": {
+      "Anthropic": 1.46
+    },
+    "2026-11-05, all labs running max": {
+      "All developers": 0.82
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "input_sha256": "b07bd2eb34cc26469ea832daa2b17e6088f127caa3361c0ee78bac1d05671814",
+  "eci_commit": "e04929ab751531e558b1a61e86f436487c710ef8",
+  "function": "eci.fit_eci_model",
+  "settings": "defaults: bootstrap_samples=500, bootstrap_seed=12345, regularization_strength=0.1, performance_clip_eps=1e-3; resamples each model's benchmark results with replacement",
+  "n_draws": 500,
+  "elapsed_seconds": 180.2
+}

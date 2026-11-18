@@ -1,0 +1,22 @@
+{
+  "input_sha256": "b07bd2eb34cc26469ea832daa2b17e6088f127caa3361c0ee78bac1d05671814",
+  "n_models": 256,
+  "n_benchmarks": 57,
+  "n_rows": 2879,
+  "sources": [
+    "least_squares",
+    "epoch_published",
+    "bayes_refit"
+  ],
+  "unreleased_models": [
+    "Llama 2-34B",
+    "Nemotron-4 15B"
+  ],
+  "tau_date": "2025-10-07",
+  "origin": "2024-03-01",
+  "fri_cutoff": "2026-11-03",
+  "window": [
+    "2024-03-01",
+    "2026-10-31"
+  ]
+}

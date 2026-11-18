@@ -1,0 +1,151 @@
+date,model,organization,score,same_day_models,n_same_day,t,source,series
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,least_squares,anthropic
+2024-10-22,Claude 3.5 Sonnet (October 2024),Anthropic,133.3950401727023,Claude 3.5 Haiku;Claude 3.5 Sonnet (October 2024),2,0.6433949349760438,least_squares,anthropic
+2025-02-24,Claude 3.7 Sonnet,Anthropic,141.06336567868533,Claude 3.7 Sonnet,1,0.9856262833675564,least_squares,anthropic
+2025-05-22,Claude Opus 4,Anthropic,142.48296374393456,Claude Opus 4;Claude Sonnet 4,2,1.2238193018480492,least_squares,anthropic
+2025-08-05,Claude Opus 4.1,Anthropic,143.97977110354913,Claude Opus 4.1,1,1.429158110882957,least_squares,anthropic
+2025-09-29,Claude Sonnet 4.5,Anthropic,146.82043511518424,Claude Sonnet 4.5,1,1.5797399041752225,least_squares,anthropic
+2025-11-24,Claude Opus 4.5,Anthropic,150.28110495298745,Claude Opus 4.5,1,1.73305954825462,least_squares,anthropic
+2026-02-05,Claude Opus 4.6,Anthropic,155.927201980418,Claude Opus 4.6,1,1.9329226557152634,least_squares,anthropic
+2026-04-16,Claude Opus 4.7,Anthropic,156.7786794632964,Claude Opus 4.7,1,2.1245722108145104,least_squares,anthropic
+2026-05-28,Claude Opus 4.8,Anthropic,159.6703133078878,Claude Opus 4.8,1,2.239561943874059,least_squares,anthropic
+2026-06-09,Claude Fable 5,Anthropic,163.57619906536425,Claude Fable 5,1,2.272416153319644,least_squares,anthropic
+2026-07-24,Claude Opus 5,Anthropic,164.89144472211197,Claude Opus 5,1,2.3956194387405887,least_squares,anthropic
+2026-09-01,Claude Fable 5.1,Anthropic,167.08333214794294,Claude Fable 5.1,1,2.5023956194387407,least_squares,anthropic
+2026-09-22,Claude Opus 5.5,Anthropic,169.795170732643,Claude Opus 5.5,1,2.5598904859685145,least_squares,anthropic
+2024-04-09,GPT-4 Turbo (Apr 2024),OpenAI,127.20904552482331,GPT-4 Turbo (Apr 2024),1,0.10677618069815195,least_squares,all_developers
+2024-05-13,GPT-4o (May 2024),OpenAI,128.96754492322896,GPT-4o (May 2024),1,0.1998631074606434,least_squares,all_developers
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,least_squares,all_developers
+2024-09-12,o1-mini,OpenAI,135.83209182985723,o1-mini;o1-preview,2,0.5338809034907598,least_squares,all_developers
+2024-12-17,o1,OpenAI,141.85390372038114,o1,1,0.7967145790554415,least_squares,all_developers
+2025-03-31,Gemini 2.5 Pro (Mar 2025),Google DeepMind,144.1122487929198,Gemini 2.5 Pro (Mar 2025),1,1.08145106091718,least_squares,all_developers
+2025-04-16,o3,OpenAI,146.91618859437273,o3;o4-mini,2,1.1252566735112937,least_squares,all_developers
+2025-06-10,o3-pro,OpenAI,147.46779934626818,o3-pro,1,1.2758384668035592,least_squares,all_developers
+2025-08-07,GPT-5,OpenAI,150.0,GPT-5;GPT-5 mini;GPT-5 nano,3,1.434633812457221,least_squares,all_developers
+2025-10-07,GPT-5 Pro,OpenAI,150.79244693132335,GPT-5 Pro,1,1.6016427104722792,least_squares,all_developers
+2025-11-18,Gemini 3 Pro,Google DeepMind,153.3445928681743,Gemini 3 Pro,1,1.7166324435318274,least_squares,all_developers
+2025-12-11,GPT-5.2 Pro,OpenAI,156.6832799554194,GPT-5.2;GPT-5.2 Pro,2,1.7796030116358659,least_squares,all_developers
+2026-03-05,GPT-5.4 Pro,OpenAI,160.02898665031313,GPT-5.4;GPT-5.4 Pro,2,2.0095824777549622,least_squares,all_developers
+2026-04-23,GPT-5.5 Pro,OpenAI,163.4755141525487,GPT-5.5;GPT-5.5 Pro,2,2.1437371663244353,least_squares,all_developers
+2026-06-09,Claude Fable 5,Anthropic,163.57619906536425,Claude Fable 5,1,2.272416153319644,least_squares,all_developers
+2026-07-24,Claude Opus 5,Anthropic,164.89144472211197,Claude Opus 5,1,2.3956194387405887,least_squares,all_developers
+2026-09-01,Claude Fable 5.1,Anthropic,167.08333214794294,Claude Fable 5.1;Qwen3.8 Max (0902),2,2.5023956194387407,least_squares,all_developers
+2026-09-03,GPT-6 Astra,OpenAI,169.96171851372702,GPT-6 Astra,1,2.507871321013005,least_squares,all_developers
+2024-04-09,GPT-4 Turbo (Apr 2024),OpenAI,127.20904552482331,GPT-4 Turbo (Apr 2024),1,0.10677618069815195,least_squares,all_developers_incl_unreleased
+2024-05-13,GPT-4o (May 2024),OpenAI,128.96754492322896,GPT-4o (May 2024),1,0.1998631074606434,least_squares,all_developers_incl_unreleased
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,least_squares,all_developers_incl_unreleased
+2024-09-12,o1-mini,OpenAI,135.83209182985723,o1-mini;o1-preview,2,0.5338809034907598,least_squares,all_developers_incl_unreleased
+2024-12-17,o1,OpenAI,141.85390372038114,o1,1,0.7967145790554415,least_squares,all_developers_incl_unreleased
+2025-03-31,Gemini 2.5 Pro (Mar 2025),Google DeepMind,144.1122487929198,Gemini 2.5 Pro (Mar 2025),1,1.08145106091718,least_squares,all_developers_incl_unreleased
+2025-04-16,o3,OpenAI,146.91618859437273,o3;o4-mini,2,1.1252566735112937,least_squares,all_developers_incl_unreleased
+2025-06-10,o3-pro,OpenAI,147.46779934626818,o3-pro,1,1.2758384668035592,least_squares,all_developers_incl_unreleased
+2025-08-07,GPT-5,OpenAI,150.0,GPT-5;GPT-5 mini;GPT-5 nano,3,1.434633812457221,least_squares,all_developers_incl_unreleased
+2025-10-07,GPT-5 Pro,OpenAI,150.79244693132335,GPT-5 Pro,1,1.6016427104722792,least_squares,all_developers_incl_unreleased
+2025-11-18,Gemini 3 Pro,Google DeepMind,153.3445928681743,Gemini 3 Pro,1,1.7166324435318274,least_squares,all_developers_incl_unreleased
+2025-12-11,GPT-5.2 Pro,OpenAI,156.6832799554194,GPT-5.2;GPT-5.2 Pro,2,1.7796030116358659,least_squares,all_developers_incl_unreleased
+2026-03-05,GPT-5.4 Pro,OpenAI,160.02898665031313,GPT-5.4;GPT-5.4 Pro,2,2.0095824777549622,least_squares,all_developers_incl_unreleased
+2026-04-23,GPT-5.5 Pro,OpenAI,163.4755141525487,GPT-5.5;GPT-5.5 Pro,2,2.1437371663244353,least_squares,all_developers_incl_unreleased
+2026-06-09,Claude Fable 5,Anthropic,163.57619906536425,Claude Fable 5,1,2.272416153319644,least_squares,all_developers_incl_unreleased
+2026-07-24,Claude Opus 5,Anthropic,164.89144472211197,Claude Opus 5,1,2.3956194387405887,least_squares,all_developers_incl_unreleased
+2026-09-01,Claude Fable 5.1,Anthropic,167.08333214794294,Claude Fable 5.1;Qwen3.8 Max (0902),2,2.5023956194387407,least_squares,all_developers_incl_unreleased
+2026-09-03,GPT-6 Astra,OpenAI,169.96171851372702,GPT-6 Astra,1,2.507871321013005,least_squares,all_developers_incl_unreleased
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,epoch_published,anthropic
+2024-10-22,Claude 3.5 Sonnet (October 2024),Anthropic,133.43,Claude 3.5 Haiku;Claude 3.5 Sonnet (October 2024),2,0.6433949349760438,epoch_published,anthropic
+2025-02-24,Claude 3.7 Sonnet,Anthropic,141.0,Claude 3.7 Sonnet,1,0.9856262833675564,epoch_published,anthropic
+2025-05-22,Claude Opus 4,Anthropic,142.9,Claude Opus 4;Claude Sonnet 4,2,1.2238193018480492,epoch_published,anthropic
+2025-08-05,Claude Opus 4.1,Anthropic,144.84,Claude Opus 4.1,1,1.429158110882957,epoch_published,anthropic
+2025-09-29,Claude Sonnet 4.5,Anthropic,147.63,Claude Sonnet 4.5,1,1.5797399041752225,epoch_published,anthropic
+2025-11-24,Claude Opus 4.5,Anthropic,151.92,Claude Opus 4.5,1,1.73305954825462,epoch_published,anthropic
+2026-02-05,Claude Opus 4.6,Anthropic,156.34,Claude Opus 4.6,1,1.9329226557152634,epoch_published,anthropic
+2026-04-16,Claude Opus 4.7,Anthropic,157.44,Claude Opus 4.7,1,2.1245722108145104,epoch_published,anthropic
+2026-05-28,Claude Opus 4.8,Anthropic,159.94,Claude Opus 4.8,1,2.239561943874059,epoch_published,anthropic
+2026-06-09,Claude Fable 5,Anthropic,164.13,Claude Fable 5,1,2.272416153319644,epoch_published,anthropic
+2026-07-24,Claude Opus 5,Anthropic,164.68,Claude Opus 5,1,2.3956194387405887,epoch_published,anthropic
+2026-09-01,Claude Fable 5.1,Anthropic,166.99,Claude Fable 5.1,1,2.5023956194387407,epoch_published,anthropic
+2026-09-22,Claude Opus 5.5,Anthropic,168.54,Claude Opus 5.5,1,2.5598904859685145,epoch_published,anthropic
+2024-04-09,GPT-4 Turbo (Apr 2024),OpenAI,125.82,GPT-4 Turbo (Apr 2024),1,0.10677618069815195,epoch_published,all_developers
+2024-05-13,GPT-4o (May 2024),OpenAI,128.16,GPT-4o (May 2024),1,0.1998631074606434,epoch_published,all_developers
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,epoch_published,all_developers
+2024-09-12,o1-mini,OpenAI,135.3,o1-mini;o1-preview,2,0.5338809034907598,epoch_published,all_developers
+2024-12-17,o1,OpenAI,141.16,o1,1,0.7967145790554415,epoch_published,all_developers
+2025-03-31,Gemini 2.5 Pro (Mar 2025),Google DeepMind,143.95,Gemini 2.5 Pro (Mar 2025),1,1.08145106091718,epoch_published,all_developers
+2025-04-16,o3,OpenAI,147.05,o3;o4-mini,2,1.1252566735112937,epoch_published,all_developers
+2025-06-10,o3-pro,OpenAI,147.46,o3-pro,1,1.2758384668035592,epoch_published,all_developers
+2025-08-07,GPT-5,OpenAI,150.0,GPT-5;GPT-5 mini;GPT-5 nano,3,1.434633812457221,epoch_published,all_developers
+2025-10-07,GPT-5 Pro,OpenAI,151.23,GPT-5 Pro,1,1.6016427104722792,epoch_published,all_developers
+2025-11-18,Gemini 3 Pro,Google DeepMind,152.98,Gemini 3 Pro,1,1.7166324435318274,epoch_published,all_developers
+2025-12-11,GPT-5.2 Pro,OpenAI,157.27,GPT-5.2;GPT-5.2 Pro,2,1.7796030116358659,epoch_published,all_developers
+2026-03-05,GPT-5.4 Pro,OpenAI,160.24,GPT-5.4;GPT-5.4 Pro,2,2.0095824777549622,epoch_published,all_developers
+2026-04-23,GPT-5.5 Pro,OpenAI,162.7,GPT-5.5;GPT-5.5 Pro,2,2.1437371663244353,epoch_published,all_developers
+2026-06-09,Claude Fable 5,Anthropic,164.13,Claude Fable 5,1,2.272416153319644,epoch_published,all_developers
+2026-07-24,Claude Opus 5,Anthropic,164.68,Claude Opus 5,1,2.3956194387405887,epoch_published,all_developers
+2026-09-01,Claude Fable 5.1,Anthropic,166.99,Claude Fable 5.1;Qwen3.8 Max (0902),2,2.5023956194387407,epoch_published,all_developers
+2026-09-03,GPT-6 Astra,OpenAI,169.0,GPT-6 Astra,1,2.507871321013005,epoch_published,all_developers
+2024-04-09,GPT-4 Turbo (Apr 2024),OpenAI,125.82,GPT-4 Turbo (Apr 2024),1,0.10677618069815195,epoch_published,all_developers_incl_unreleased
+2024-05-13,GPT-4o (May 2024),OpenAI,128.16,GPT-4o (May 2024),1,0.1998631074606434,epoch_published,all_developers_incl_unreleased
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,epoch_published,all_developers_incl_unreleased
+2024-09-12,o1-mini,OpenAI,135.3,o1-mini;o1-preview,2,0.5338809034907598,epoch_published,all_developers_incl_unreleased
+2024-12-17,o1,OpenAI,141.16,o1,1,0.7967145790554415,epoch_published,all_developers_incl_unreleased
+2025-03-31,Gemini 2.5 Pro (Mar 2025),Google DeepMind,143.95,Gemini 2.5 Pro (Mar 2025),1,1.08145106091718,epoch_published,all_developers_incl_unreleased
+2025-04-16,o3,OpenAI,147.05,o3;o4-mini,2,1.1252566735112937,epoch_published,all_developers_incl_unreleased
+2025-06-10,o3-pro,OpenAI,147.46,o3-pro,1,1.2758384668035592,epoch_published,all_developers_incl_unreleased
+2025-08-07,GPT-5,OpenAI,150.0,GPT-5;GPT-5 mini;GPT-5 nano,3,1.434633812457221,epoch_published,all_developers_incl_unreleased
+2025-10-07,GPT-5 Pro,OpenAI,151.23,GPT-5 Pro,1,1.6016427104722792,epoch_published,all_developers_incl_unreleased
+2025-11-18,Gemini 3 Pro,Google DeepMind,152.98,Gemini 3 Pro,1,1.7166324435318274,epoch_published,all_developers_incl_unreleased
+2025-12-11,GPT-5.2 Pro,OpenAI,157.27,GPT-5.2;GPT-5.2 Pro,2,1.7796030116358659,epoch_published,all_developers_incl_unreleased
+2026-03-05,GPT-5.4 Pro,OpenAI,160.24,GPT-5.4;GPT-5.4 Pro,2,2.0095824777549622,epoch_published,all_developers_incl_unreleased
+2026-04-23,GPT-5.5 Pro,OpenAI,162.7,GPT-5.5;GPT-5.5 Pro,2,2.1437371663244353,epoch_published,all_developers_incl_unreleased
+2026-06-09,Claude Fable 5,Anthropic,164.13,Claude Fable 5,1,2.272416153319644,epoch_published,all_developers_incl_unreleased
+2026-07-24,Claude Opus 5,Anthropic,164.68,Claude Opus 5,1,2.3956194387405887,epoch_published,all_developers_incl_unreleased
+2026-09-01,Claude Fable 5.1,Anthropic,166.99,Claude Fable 5.1;Qwen3.8 Max (0902),2,2.5023956194387407,epoch_published,all_developers_incl_unreleased
+2026-09-03,GPT-6 Astra,OpenAI,169.0,GPT-6 Astra,1,2.507871321013005,epoch_published,all_developers_incl_unreleased
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,bayes_refit,anthropic
+2024-10-22,Claude 3.5 Sonnet (October 2024),Anthropic,133.32446956657742,Claude 3.5 Haiku;Claude 3.5 Sonnet (October 2024),2,0.6433949349760438,bayes_refit,anthropic
+2025-02-24,Claude 3.7 Sonnet,Anthropic,141.04886944836156,Claude 3.7 Sonnet,1,0.9856262833675564,bayes_refit,anthropic
+2025-05-22,Claude Opus 4,Anthropic,142.84945023678168,Claude Opus 4;Claude Sonnet 4,2,1.2238193018480492,bayes_refit,anthropic
+2025-08-05,Claude Opus 4.1,Anthropic,144.76999035459028,Claude Opus 4.1,1,1.429158110882957,bayes_refit,anthropic
+2025-09-29,Claude Sonnet 4.5,Anthropic,147.59935082057856,Claude Sonnet 4.5,1,1.5797399041752225,bayes_refit,anthropic
+2025-11-24,Claude Opus 4.5,Anthropic,151.8978130522816,Claude Opus 4.5,1,1.73305954825462,bayes_refit,anthropic
+2026-02-05,Claude Opus 4.6,Anthropic,156.36424716009867,Claude Opus 4.6,1,1.9329226557152634,bayes_refit,anthropic
+2026-04-16,Claude Opus 4.7,Anthropic,157.44853826863007,Claude Opus 4.7,1,2.1245722108145104,bayes_refit,anthropic
+2026-05-28,Claude Opus 4.8,Anthropic,159.976624411095,Claude Opus 4.8,1,2.239561943874059,bayes_refit,anthropic
+2026-06-09,Claude Fable 5,Anthropic,164.33068141530296,Claude Fable 5,1,2.272416153319644,bayes_refit,anthropic
+2026-07-24,Claude Opus 5,Anthropic,164.77565752467632,Claude Opus 5,1,2.3956194387405887,bayes_refit,anthropic
+2026-09-01,Claude Fable 5.1,Anthropic,167.11287251857314,Claude Fable 5.1,1,2.5023956194387407,bayes_refit,anthropic
+2026-09-22,Claude Opus 5.5,Anthropic,168.70061664673912,Claude Opus 5.5,1,2.5598904859685145,bayes_refit,anthropic
+2024-04-09,GPT-4 Turbo (Apr 2024),OpenAI,125.78016509203547,GPT-4 Turbo (Apr 2024),1,0.10677618069815195,bayes_refit,all_developers
+2024-05-13,GPT-4o (May 2024),OpenAI,128.0906160567842,GPT-4o (May 2024),1,0.1998631074606434,bayes_refit,all_developers
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,bayes_refit,all_developers
+2024-09-12,o1-mini,OpenAI,135.22524915788296,o1-mini;o1-preview,2,0.5338809034907598,bayes_refit,all_developers
+2024-12-17,o1,OpenAI,141.15020715277095,o1,1,0.7967145790554415,bayes_refit,all_developers
+2025-03-31,Gemini 2.5 Pro (Mar 2025),Google DeepMind,144.00799183462993,Gemini 2.5 Pro (Mar 2025),1,1.08145106091718,bayes_refit,all_developers
+2025-04-16,o3,OpenAI,147.01420054218585,o3;o4-mini,2,1.1252566735112937,bayes_refit,all_developers
+2025-06-10,o3-pro,OpenAI,147.48115037866467,o3-pro,1,1.2758384668035592,bayes_refit,all_developers
+2025-08-07,GPT-5,OpenAI,150.0,GPT-5;GPT-5 mini;GPT-5 nano,3,1.434633812457221,bayes_refit,all_developers
+2025-10-07,GPT-5 Pro,OpenAI,151.24049006592466,GPT-5 Pro,1,1.6016427104722792,bayes_refit,all_developers
+2025-11-18,Gemini 3 Pro,Google DeepMind,153.0079731211043,Gemini 3 Pro,1,1.7166324435318274,bayes_refit,all_developers
+2025-12-11,GPT-5.2 Pro,OpenAI,157.29224558209737,GPT-5.2;GPT-5.2 Pro,2,1.7796030116358659,bayes_refit,all_developers
+2026-03-05,GPT-5.4 Pro,OpenAI,160.3151925276839,GPT-5.4;GPT-5.4 Pro,2,2.0095824777549622,bayes_refit,all_developers
+2026-04-23,GPT-5.5 Pro,OpenAI,162.76483000284878,GPT-5.5;GPT-5.5 Pro,2,2.1437371663244353,bayes_refit,all_developers
+2026-06-09,Claude Fable 5,Anthropic,164.33068141530296,Claude Fable 5,1,2.272416153319644,bayes_refit,all_developers
+2026-07-24,Claude Opus 5,Anthropic,164.77565752467632,Claude Opus 5,1,2.3956194387405887,bayes_refit,all_developers
+2026-09-01,Claude Fable 5.1,Anthropic,167.11287251857314,Claude Fable 5.1;Qwen3.8 Max (0902),2,2.5023956194387407,bayes_refit,all_developers
+2026-09-03,GPT-6 Astra,OpenAI,169.15015445983798,GPT-6 Astra,1,2.507871321013005,bayes_refit,all_developers
+2024-04-09,GPT-4 Turbo (Apr 2024),OpenAI,125.78016509203547,GPT-4 Turbo (Apr 2024),1,0.10677618069815195,bayes_refit,all_developers_incl_unreleased
+2024-05-13,GPT-4o (May 2024),OpenAI,128.0906160567842,GPT-4o (May 2024),1,0.1998631074606434,bayes_refit,all_developers_incl_unreleased
+2024-06-20,Claude 3.5 Sonnet,Anthropic,130.0,Claude 3.5 Sonnet,1,0.30390143737166325,bayes_refit,all_developers_incl_unreleased
+2024-09-12,o1-mini,OpenAI,135.22524915788296,o1-mini;o1-preview,2,0.5338809034907598,bayes_refit,all_developers_incl_unreleased
+2024-12-17,o1,OpenAI,141.15020715277095,o1,1,0.7967145790554415,bayes_refit,all_developers_incl_unreleased
+2025-03-31,Gemini 2.5 Pro (Mar 2025),Google DeepMind,144.00799183462993,Gemini 2.5 Pro (Mar 2025),1,1.08145106091718,bayes_refit,all_developers_incl_unreleased
+2025-04-16,o3,OpenAI,147.01420054218585,o3;o4-mini,2,1.1252566735112937,bayes_refit,all_developers_incl_unreleased
+2025-06-10,o3-pro,OpenAI,147.48115037866467,o3-pro,1,1.2758384668035592,bayes_refit,all_developers_incl_unreleased
+2025-08-07,GPT-5,OpenAI,150.0,GPT-5;GPT-5 mini;GPT-5 nano,3,1.434633812457221,bayes_refit,all_developers_incl_unreleased
+2025-10-07,GPT-5 Pro,OpenAI,151.24049006592466,GPT-5 Pro,1,1.6016427104722792,bayes_refit,all_developers_incl_unreleased
+2025-11-18,Gemini 3 Pro,Google DeepMind,153.0079731211043,Gemini 3 Pro,1,1.7166324435318274,bayes_refit,all_developers_incl_unreleased
+2025-12-11,GPT-5.2 Pro,OpenAI,157.29224558209737,GPT-5.2;GPT-5.2 Pro,2,1.7796030116358659,bayes_refit,all_developers_incl_unreleased
+2026-03-05,GPT-5.4 Pro,OpenAI,160.3151925276839,GPT-5.4;GPT-5.4 Pro,2,2.0095824777549622,bayes_refit,all_developers_incl_unreleased
+2026-04-23,GPT-5.5 Pro,OpenAI,162.76483000284878,GPT-5.5;GPT-5.5 Pro,2,2.1437371663244353,bayes_refit,all_developers_incl_unreleased
+2026-06-09,Claude Fable 5,Anthropic,164.33068141530296,Claude Fable 5,1,2.272416153319644,bayes_refit,all_developers_incl_unreleased
+2026-07-24,Claude Opus 5,Anthropic,164.77565752467632,Claude Opus 5,1,2.3956194387405887,bayes_refit,all_developers_incl_unreleased
+2026-09-01,Claude Fable 5.1,Anthropic,167.11287251857314,Claude Fable 5.1;Qwen3.8 Max (0902),2,2.5023956194387407,bayes_refit,all_developers_incl_unreleased
+2026-09-03,GPT-6 Astra,OpenAI,169.15015445983798,GPT-6 Astra,1,2.507871321013005,bayes_refit,all_developers_incl_unreleased

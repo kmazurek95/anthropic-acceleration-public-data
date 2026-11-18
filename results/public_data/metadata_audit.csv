@@ -1,0 +1,191 @@
+model_group,issue,date,date_earliest,n_dates,n_rows,n_org,organization,accessibility,org_source
+Beam 1.0,multiple_versions_same_date,2026-10-05,2026-10-05,1,6,1,Reflection,Open weights (unrestricted),model_metadata
+Claude 3.7 Sonnet,multiple_versions_same_date,2025-02-24,2025-02-24,1,10,1,Anthropic,API access,model_metadata
+Claude Fable 5,multiple_versions_same_date,2026-06-09,2026-06-09,1,8,1,Anthropic,API access,model_metadata
+Claude Fable 5.1,multiple_versions_same_date,2026-09-01,2026-09-01,1,6,1,Anthropic,API access,model_metadata
+Claude Fable 5.2,multiple_versions_same_date,2026-11-09,2026-11-09,1,7,1,Anthropic,API access,model_metadata
+Claude Haiku 4.5,multiple_versions_same_date,2025-10-15,2025-10-15,1,8,1,Anthropic,API access,model_metadata
+Claude Haiku 5.5,multiple_versions_same_date,2026-10-07,2026-10-07,1,7,1,Anthropic,API access,model_metadata
+Claude Instant,multiple_versions_same_date,2023-08-09,2023-08-09,1,2,1,Anthropic,API access,model_metadata
+Claude Opus 4,multiple_versions_same_date,2025-05-22,2025-05-22,1,9,1,Anthropic,API access,model_metadata
+Claude Opus 4.1,multiple_versions_same_date,2025-08-05,2025-08-05,1,6,1,Anthropic,API access,model_metadata
+Claude Opus 4.5,multiple_versions_same_date,2025-11-24,2025-11-24,1,11,1,Anthropic,API access,model_metadata
+Claude Opus 4.6,multiple_versions_same_date,2026-02-05,2026-02-05,1,9,1,Anthropic,API access,model_metadata
+Claude Opus 4.7,multiple_versions_same_date,2026-04-16,2026-04-16,1,7,1,Anthropic,API access,model_metadata
+Claude Opus 4.8,multiple_versions_same_date,2026-05-28,2026-05-28,1,8,1,Anthropic,API access,model_metadata
+Claude Opus 5,multiple_versions_same_date,2026-07-24,2026-07-24,1,7,1,Anthropic,API access,model_metadata
+Claude Opus 5.5,multiple_versions_same_date,2026-09-22,2026-09-22,1,7,1,Anthropic,API access,model_metadata
+Claude Sonnet 4,multiple_versions_same_date,2025-05-22,2025-05-22,1,12,1,Anthropic,API access,model_metadata
+Claude Sonnet 4.5,multiple_versions_same_date,2025-09-29,2025-09-29,1,12,1,Anthropic,API access,model_metadata
+Claude Sonnet 4.6,multiple_versions_same_date,2026-02-17,2026-02-17,1,9,1,Anthropic,API access,model_metadata
+Claude Sonnet 5,multiple_versions_same_date,2026-06-30,2026-06-30,1,8,1,Anthropic,API access,model_metadata
+Claude Sonnet 5.5,multiple_versions_same_date,2026-09-28,2026-09-28,1,6,1,Anthropic,API access,model_metadata
+CodeQwen1.5-7B,organization_unknown,2024-04-15,2024-04-15,1,1,0,unknown,,unknown
+DeepSeek Coder 33B,multiple_versions_same_date,2023-11-02,2023-11-02,1,2,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata
+DeepSeek Coder 6.7B,multiple_dates,2024-01-25,2023-11-02,2,3,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata
+DeepSeek V4 Flash 0731,multiple_versions_same_date,2026-07-31,2026-07-31,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek V4 Pro 0813,multiple_versions_same_date,2026-08-13,2026-08-13,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek V4.1 Flash,multiple_versions_same_date,2026-09-09,2026-09-09,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek V4.1 Flash 1017,multiple_versions_same_date,2026-10-17,2026-10-17,1,6,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek-Coder-V2-Lite-Base,organization_unknown,2024-06-13,2024-06-13,1,1,0,unknown,,unknown
+DeepSeek-R1 (May 2025),multiple_versions_same_date,2025-05-28,2025-05-28,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek-V3,multiple_versions_same_date,2024-12-26,2024-12-26,1,2,1,DeepSeek,Open weights (restricted use),model_metadata
+DeepSeek-V3 (Mar 2025),multiple_versions_same_date,2025-03-24,2025-03-24,1,2,1,DeepSeek,Open weights (restricted use),model_metadata
+DeepSeek-V3.1,multiple_versions_same_date,2025-08-21,2025-08-21,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek-V3.2,multiple_versions_same_date,2025-12-01,2025-12-01,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek-V3.2-Exp,multiple_versions_same_date,2025-09-29,2025-09-29,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek-V4-Flash,multiple_versions_same_date,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata
+DeepSeek-V4-Pro,multiple_versions_same_date,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata
+Falcon-40B,multiple_dates,2023-05-25,2023-03-15,2,2,1,Technology Innovation Institute,Open weights (unrestricted),model_metadata
+GLM-4.7,multiple_versions_same_date,2025-12-22,2025-12-22,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata
+GLM-5,multiple_versions_same_date,2026-02-11,2026-02-11,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata
+GLM-5.1,multiple_versions_same_date,2026-04-07,2026-04-07,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata
+GLM-5.2,multiple_versions_same_date,2026-06-16,2026-06-16,1,7,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata
+GLM-5.3,multiple_versions_same_date,2026-08-14,2026-08-14,1,4,1,Z.ai (Zhipu AI),Open weights (restricted use),model_metadata
+GLM-5.3-Flash,multiple_versions_same_date,2026-08-20,2026-08-20,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata
+GPT-3.5 Turbo (Jun 2023),multiple_versions_same_date,2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata
+GPT-4 (Jun 2023),multiple_versions_same_date,2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata
+GPT-4 (Mar 2023),multiple_versions_same_date,2023-03-14,2023-03-14,1,2,1,OpenAI,API access,model_metadata
+GPT-4 Turbo (Nov 2023),multiple_dates,2024-01-25,2023-11-06,2,3,1,OpenAI,API access,model_metadata
+GPT-4o (Nov 2024),multiple_versions_same_date,2024-11-20,2024-11-20,1,2,1,OpenAI,API access,model_metadata
+GPT-5,multiple_versions_same_date,2025-08-07,2025-08-07,1,6,1,OpenAI,API access,model_metadata
+GPT-5 Pro,multiple_versions_same_date,2025-10-07,2025-10-07,1,3,1,OpenAI,API access,model_metadata
+GPT-5 mini,multiple_versions_same_date,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata
+GPT-5 nano,multiple_versions_same_date,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata
+GPT-5.1,multiple_versions_same_date,2025-11-13,2025-11-13,1,5,1,OpenAI,API access,model_metadata
+GPT-5.2,multiple_versions_same_date,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata
+GPT-5.2 Pro,multiple_versions_same_date,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata
+GPT-5.4,multiple_versions_same_date,2026-03-05,2026-03-05,1,6,1,OpenAI,API access,model_metadata
+GPT-5.4 Mini,multiple_versions_same_date,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata
+GPT-5.4 Nano,multiple_versions_same_date,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata
+GPT-5.4 Pro,multiple_versions_same_date,2026-03-05,2026-03-05,1,4,1,OpenAI,API access,model_metadata
+GPT-5.5,multiple_versions_same_date,2026-04-23,2026-04-23,1,7,1,OpenAI,API access,model_metadata
+GPT-5.5 Pro,multiple_versions_same_date,2026-04-23,2026-04-23,1,5,1,OpenAI,API access,model_metadata
+GPT-5.6 Luna,multiple_versions_same_date,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata
+GPT-5.6 Sol,multiple_versions_same_date,2026-07-09,2026-07-09,1,10,1,OpenAI,API access,model_metadata
+GPT-5.6 Terra,multiple_versions_same_date,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata
+GPT-6 Astra,multiple_versions_same_date,2026-09-03,2026-09-03,1,8,1,OpenAI,API access,model_metadata
+GPT-6 Luna,multiple_versions_same_date,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata
+GPT-6 Sol,multiple_versions_same_date,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata
+GPT-6.1 Sol,multiple_versions_same_date,2026-09-29,2026-09-29,1,6,1,OpenAI,API access,model_metadata
+GPT-6.1 Terra,multiple_versions_same_date,2026-10-26,2026-10-26,1,7,1,OpenAI,API access,model_metadata
+Gemini 1.5 Flash (May 2024),multiple_dates,2024-05-23,2024-05-14,2,2,1,Google DeepMind,API access,model_metadata
+Gemini 1.5 Flash (Sep 2024),multiple_dates,2024-09-24,2024-08-27,2,2,1,Google DeepMind,API access,model_metadata
+Gemini 2.0 Flash (Feb 2025),multiple_versions_same_date,2025-02-05,2025-02-05,1,2,1,"Google DeepMind,Google",API access,model_metadata
+Gemini 2.0 Flash Thinking (Jan 2025),multiple_versions_same_date,2025-01-21,2025-01-21,1,2,1,"Google DeepMind,Google",API access,model_metadata
+Gemini 2.5 Flash (Apr 2025),multiple_versions_same_date,2025-04-17,2025-04-17,1,3,1,Google DeepMind,API access,model_metadata
+Gemini 2.5 Flash (May 2025),multiple_versions_same_date,2025-05-20,2025-05-20,1,5,1,Google DeepMind,API access,model_metadata
+Gemini 2.5 Flash (Sep 2025),multiple_versions_same_date,2025-09-25,2025-09-25,1,2,1,Google DeepMind,API access,model_metadata
+Gemini 2.5 Flash-Lite (Jun 2025),multiple_versions_same_date,2025-06-17,2025-06-17,1,2,1,Google DeepMind,API access,model_metadata
+Gemini 2.5 Pro (Jun 2025),multiple_versions_same_date,2025-06-05,2025-06-05,1,7,1,Google DeepMind,API access,model_metadata
+Gemini 2.5 Pro (Mar 2025),multiple_dates,2025-03-31,2025-03-25,2,2,1,Google DeepMind,API access,model_metadata
+Gemini 3 Flash,multiple_versions_same_date,2025-12-17,2025-12-17,1,4,1,Google DeepMind,API access,model_metadata
+Gemini 3 Pro,multiple_versions_same_date,2025-11-18,2025-11-18,1,2,1,Google DeepMind,API access,model_metadata
+Gemini 3.1 Flash-Lite,multiple_versions_same_date,2026-03-03,2026-03-03,1,4,1,Google,API access,model_metadata
+Gemini 3.1 Pro,multiple_versions_same_date,2026-02-19,2026-02-19,1,5,1,Google DeepMind,API access,model_metadata
+Gemini 3.5 Flash,multiple_versions_same_date,2026-05-19,2026-05-19,1,5,1,Google DeepMind,API access,model_metadata
+Gemini 3.5 Flash-Lite,multiple_versions_same_date,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata
+Gemini 3.6 Flash,multiple_versions_same_date,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata
+Gemini 3.7 Flash,multiple_versions_same_date,2026-08-13,2026-08-13,1,4,1,Google DeepMind,API access,model_metadata
+Gemini 3.8 Flash,multiple_versions_same_date,2026-09-02,2026-09-02,1,4,1,Google DeepMind,API access,model_metadata
+Gemini 4 Argon,multiple_versions_same_date,2026-10-13,2026-10-13,1,5,1,Google DeepMind,API access,model_metadata
+Gemini 4 Carbon,multiple_versions_same_date,2026-11-10,2026-11-10,1,4,1,Google DeepMind,API access,model_metadata
+Gemma 2 27B,multiple_dates,2024-06-27,2024-06-24,2,3,1,Google DeepMind,Open weights (restricted use),model_metadata
+Gemma 2 9B,multiple_versions_same_date,2024-06-24,2024-06-24,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata
+Gemma 3 27B,multiple_dates,2025-03-12,2025-03-11,2,2,1,Google DeepMind,Open weights (restricted use),model_metadata
+Gemma 4 26B A4B,multiple_versions_same_date,2026-04-02,2026-04-02,1,3,1,Google DeepMind,Open weights (unrestricted),model_metadata
+Gemma 4 31B IT,multiple_versions_same_date,2026-04-02,2026-04-02,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata
+Grok 3,multiple_versions_same_date,2025-04-09,2025-04-09,1,2,1,xAI,API access,model_metadata
+Grok 4,multiple_versions_same_date,2025-07-09,2025-07-09,1,2,1,xAI,API access,model_metadata
+Grok 4.20,multiple_versions_same_date,2026-02-17,2026-02-17,1,2,1,xAI,API access,model_metadata
+Grok 4.3 Beta,multiple_versions_same_date,2026-04-17,2026-04-17,1,4,1,xAI,Hosted access (no API),model_metadata
+Grok 4.5,multiple_versions_same_date,2026-07-08,2026-07-08,1,4,1,xAI,API access,model_metadata
+Grok 4.6,multiple_versions_same_date,2026-08-12,2026-08-12,1,5,1,xAI,API access,model_metadata
+Grok 4.7,multiple_versions_same_date,2026-09-21,2026-09-21,1,5,1,xAI,API access,model_metadata
+Grok-2 (Dec 2024),multiple_versions_same_date,2024-12-12,2024-12-12,1,2,1,xAI,API access,model_metadata
+Grok-3 mini,multiple_dates,2025-06-24,2025-04-09,2,7,1,xAI,API access,model_metadata
+Inkling,multiple_versions_same_date,2026-07-15,2026-07-15,1,3,1,Thinking Machines,Open weights (unrestricted),model_metadata
+Inkling-Small,multiple_versions_same_date,2026-07-15,2026-07-15,1,7,1,Thinking Machines,Open weights (unrestricted),model_metadata
+Kimi K2 (Jul 2025),multiple_versions_same_date,2025-07-12,2025-07-12,1,2,1,Moonshot,Open weights (restricted use),model_metadata
+Kimi K2 Thinking,multiple_versions_same_date,2025-11-06,2025-11-06,1,5,1,Moonshot,Open weights (restricted use),model_metadata
+Kimi K2.5,multiple_versions_same_date,2026-01-27,2026-01-27,1,3,1,Moonshot,Open weights (unrestricted),model_metadata
+Kimi K2.6,multiple_versions_same_date,2026-04-20,2026-04-20,1,2,1,Moonshot,Open weights (unrestricted),model_metadata
+Kimi K3,multiple_versions_same_date,2026-07-16,2026-07-16,1,4,1,Moonshot,Open weights (non-commercial),model_metadata
+Kimi K3.1 Pro,multiple_versions_same_date,2026-10-23,2026-10-23,1,8,1,Moonshot,Open weights (restricted use),model_metadata
+Llama 2-13B,multiple_versions_same_date,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 2-70B,multiple_versions_same_date,2023-07-18,2023-07-18,1,4,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 2-7B,multiple_versions_same_date,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 3-70B,multiple_versions_same_date,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 3-8B,multiple_versions_same_date,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 3.1-405B,multiple_versions_same_date,2024-07-23,2024-07-23,1,3,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 3.1-8B,multiple_versions_same_date,2024-07-23,2024-07-23,1,2,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 3.3 70B,multiple_versions_same_date,2024-12-06,2024-12-06,1,3,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 4 Maverick,multiple_dates,2025-04-06,2025-04-05,2,3,1,Meta AI,Open weights (restricted use),model_metadata
+Llama 4 Scout,multiple_versions_same_date,2025-04-05,2025-04-05,1,2,1,Meta AI,Open weights (restricted use),model_metadata
+MPT-30B,multiple_versions_same_date,2023-06-22,2023-06-22,1,2,1,MosaicML,Open weights (unrestricted),model_metadata
+MPT-7B,multiple_versions_same_date,2023-05-05,2023-05-05,1,2,1,MosaicML,Open weights (unrestricted),model_metadata
+MiniMax-M3,multiple_versions_same_date,2026-06-01,2026-06-01,1,2,1,MiniMax,Open weights (restricted use),model_metadata
+Mistral 7B v0.1,multiple_versions_same_date,2023-09-27,2023-09-27,1,2,1,Mistral AI,Open weights (unrestricted),model_metadata
+Mistral Large 2 (Jul 2024),multiple_versions_same_date,2024-07-24,2024-07-24,1,2,1,Mistral AI,Open weights (non-commercial),model_metadata
+Mistral Large 4,multiple_versions_same_date,2026-10-29,2026-10-29,1,3,1,Mistral AI,Open weights (restricted use),model_metadata
+Mistral Large 4 Preview,multiple_versions_same_date,2026-10-06,2026-10-06,1,3,1,Mistral AI,Open weights (restricted use),model_metadata
+Mistral NeMo,multiple_versions_same_date,2024-07-18,2024-07-18,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata
+Mixtral 8x22B,multiple_versions_same_date,2024-04-17,2024-04-17,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata
+Mixtral 8x7B,multiple_versions_same_date,2023-12-11,2023-12-11,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata
+Muse Spark 1.1,multiple_versions_same_date,2026-07-09,2026-07-09,1,4,1,Meta AI,API access,model_metadata
+Muse Spark 1.2,multiple_versions_same_date,2026-08-05,2026-08-05,1,2,1,Meta AI,API access,model_metadata
+Muse Spark 1.3,multiple_versions_same_date,2026-09-02,2026-09-02,1,7,1,Meta AI,API access,model_metadata
+Muse Spark Open,multiple_versions_same_date,2026-10-15,2026-10-15,1,5,1,Meta AI,Open weights (restricted use),model_metadata
+Muse Wonder,multiple_versions_same_date,2026-10-12,2026-10-12,1,7,1,Meta AI,API access,model_metadata
+PaLM 2-L,organization_unknown,2023-05-17,2023-05-17,1,1,0,unknown,,unknown
+PaLM 2-M,organization_unknown,2023-05-17,2023-05-17,1,1,0,unknown,,unknown
+PaLM 2-S,organization_unknown,2023-05-17,2023-05-17,1,1,0,unknown,,unknown
+Phi-4,multiple_versions_same_date,2024-12-12,2024-12-12,1,2,1,Microsoft Research,Open weights (unrestricted),model_metadata
+QwQ-32B,multiple_versions_same_date,2025-03-05,2025-03-05,1,3,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen 3.5 Flash (hosted 35B-A3B),multiple_versions_same_date,2026-02-25,2026-02-25,1,2,1,Alibaba,,model_metadata
+Qwen 3.5 Plus (hosted 397B-A17B),multiple_versions_same_date,2026-02-16,2026-02-16,1,2,1,Alibaba,,model_metadata
+Qwen 3.6 35B-A3B,multiple_versions_same_date,2026-04-14,2026-04-14,1,2,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen 3.6 Flash,multiple_versions_same_date,2026-04-27,2026-04-27,1,2,1,Alibaba,,model_metadata
+Qwen 3.6 Max (Preview),multiple_versions_same_date,2026-04-20,2026-04-20,1,2,1,Alibaba,,model_metadata
+Qwen 3.6 Plus,multiple_versions_same_date,2026-03-31,2026-03-31,1,2,1,Alibaba,API access,model_metadata
+Qwen 3.8 27B,multiple_versions_same_date,2026-08-14,2026-08-14,1,5,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen 3.8 Max,multiple_versions_same_date,2026-08-02,2026-08-02,1,2,1,Alibaba,API access,model_metadata
+Qwen-14B,multiple_versions_same_date,2023-09-24,2023-09-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata
+Qwen-1_8B,organization_unknown,2023-11-30,2023-11-30,1,1,0,unknown,,unknown
+Qwen2.5-72B,multiple_versions_same_date,2024-09-19,2024-09-19,1,3,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen2.5-Coder (7B),multiple_versions_same_date,2024-09-18,2024-09-18,1,2,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen2.5-Coder-0.5B,organization_unknown,2024-09-18,2024-09-18,1,1,0,unknown,,unknown
+Qwen2.5-Coder-14B,organization_unknown,2024-09-18,2024-09-18,1,1,0,unknown,,unknown
+Qwen2.5-Coder-3B,organization_unknown,2024-09-18,2024-09-18,1,1,0,unknown,,unknown
+Qwen2.5-Max,multiple_versions_same_date,2025-01-25,2025-01-25,1,2,1,Alibaba,API access,model_metadata
+Qwen3-14B,multiple_dates,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3-235B-A22B,multiple_versions_same_date,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3-235B-A22B-Instruct (Jul 2025),multiple_versions_same_date,2025-07-25,2025-07-25,1,2,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3-235B-A22B-Thinking (Jul 2025),multiple_versions_same_date,2025-07-25,2025-07-25,1,5,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3-30B-A3B,multiple_dates,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3-32B,multiple_dates,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3-8B,multiple_versions_same_date,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3.5 397B-A17B,multiple_versions_same_date,2026-02-13,2026-02-13,1,2,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3.5-35B-A3B,multiple_versions_same_date,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3.5-9B,multiple_versions_same_date,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata
+Qwen3.6 27B,multiple_versions_same_date,2026-04-22,2026-04-22,1,2,1,Alibaba,Open weights (unrestricted),model_metadata
+Qwen3.7-Max,multiple_versions_same_date,2026-05-19,2026-05-19,1,2,1,Alibaba,API access,model_metadata
+Qwen3.7-Plus,multiple_versions_same_date,2026-06-02,2026-06-02,1,2,1,Alibaba,API access,model_metadata
+Qwen3.8 Max (0902),multiple_versions_same_date,2026-09-01,2026-09-01,1,2,1,Alibaba,API access,model_metadata
+RedPajama-INCITE-7B-Base,organization_unknown,2023-05-04,2023-05-04,1,1,0,unknown,,unknown
+Yi 6B,multiple_dates,2023-11-22,2023-11-02,2,2,1,01.AI,Open weights (restricted use),model_metadata
+Yi-9B,organization_unknown,2024-03-01,2024-03-01,1,1,0,unknown,,unknown
+chatglm2-6b,organization_unknown,2023-06-24,2023-06-24,1,1,0,unknown,,unknown
+gpt-oss-120b,multiple_versions_same_date,2025-08-05,2025-08-05,1,9,1,OpenAI,Open weights (unrestricted),model_metadata
+gpt-oss-20b,multiple_versions_same_date,2025-08-05,2025-08-05,1,5,1,OpenAI,Open weights (unrestricted),model_metadata
+internlm-20b,organization_unknown,2023-09-18,2023-09-18,1,1,0,unknown,,unknown
+internlm-7b,organization_unknown,2023-07-05,2023-07-05,1,1,0,unknown,,unknown
+o1,multiple_versions_same_date,2024-12-17,2024-12-17,1,4,1,OpenAI,API access,model_metadata
+o1-mini,multiple_versions_same_date,2024-09-12,2024-09-12,1,4,1,OpenAI,API access,model_metadata
+o3,multiple_versions_same_date,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata
+o3-mini,multiple_versions_same_date,2025-01-31,2025-01-31,1,4,1,OpenAI,API access,model_metadata
+o3-pro,multiple_versions_same_date,2025-06-10,2025-06-10,1,4,1,OpenAI,API access,model_metadata
+o4-mini,multiple_versions_same_date,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata
+open_llama_7b,organization_unknown,2023-06-07,2023-06-07,1,1,0,unknown,,unknown
+phi-3-mini 3.8B,multiple_versions_same_date,2024-04-23,2024-04-23,1,2,1,Microsoft,Open weights (unrestricted),model_metadata
+vicuna-13b-v1.1,organization_unknown,2023-04-12,2023-04-12,1,1,0,unknown,,unknown

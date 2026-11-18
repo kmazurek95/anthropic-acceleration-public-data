@@ -1,0 +1,23 @@
+{
+  "input_sha256": "b07bd2eb34cc26469ea832daa2b17e6088f127caa3361c0ee78bac1d05671814",
+  "n_models": 256,
+  "candidate_developers": [
+    "Alibaba",
+    "Anthropic",
+    "DeepSeek",
+    "Google DeepMind",
+    "Meta AI",
+    "OpenAI",
+    "xAI"
+  ],
+  "window": [
+    "2024-03-01",
+    "2026-10-31"
+  ],
+  "wide_window_start": "2024-02-29",
+  "tau_date": "2025-10-07",
+  "draw_sets": {
+    "bayes_refit": 4000,
+    "least_squares": 500
+  }
+}

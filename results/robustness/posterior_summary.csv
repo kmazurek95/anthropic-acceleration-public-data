@@ -1,0 +1,9 @@
+,value
+n_draws,4000
+n_ok,4000
+status_counts,{'ok': 4000}
+median,1.4602624825605794
+p05,1.2711020381861438
+p95,1.6938865304765935
+n_distinct_frontiers,69
+share_kink_beats_level_shift,0.99525

@@ -1,0 +1,769 @@
+model,date,date_earliest,n_dates,n_rows,n_org,organization,accessibility,org_source,unreleased,score,source
+Baichuan 2-7B,2023-09-20,2023-09-20,1,1,1,Baichuan,Open weights (restricted use),model_metadata,False,96.35194313054583,least_squares
+Baichuan2-13B,2023-09-06,2023-09-06,1,1,1,Baichuan,Open weights (restricted use),model_metadata,False,103.20223239577543,least_squares
+Beam 1.0,2026-10-05,2026-10-05,1,6,1,Reflection,Open weights (unrestricted),model_metadata,False,150.31765101822316,least_squares
+Cerebras-GPT-13B,2023-03-20,2023-03-20,1,1,1,Cerebras Systems,Open weights (unrestricted),model_metadata,False,83.25966548924441,least_squares
+Claude 2,2023-07-11,2023-07-11,1,1,1,Anthropic,API access,model_metadata,False,120.1042586359092,least_squares
+Claude 3 Haiku,2024-03-07,2024-03-07,1,1,1,Anthropic,API access,model_metadata,False,118.74272195956306,least_squares
+Claude 3 Opus,2024-02-29,2024-02-29,1,1,1,Anthropic,API access,model_metadata,False,126.8625242460758,least_squares
+Claude 3 Sonnet,2024-02-29,2024-02-29,1,1,1,Anthropic,API access,model_metadata,False,120.73878991128063,least_squares
+Claude 3.5 Haiku,2024-10-22,2024-10-22,1,1,1,Anthropic,API access,model_metadata,False,126.99821948728099,least_squares
+Claude 3.5 Sonnet,2024-06-20,2024-06-20,1,1,1,Anthropic,API access,model_metadata,False,130.0,least_squares
+Claude 3.5 Sonnet (October 2024),2024-10-22,2024-10-22,1,1,1,Anthropic,API access,model_metadata,False,133.3950401727023,least_squares
+Claude 3.7 Sonnet,2025-02-24,2025-02-24,1,10,1,Anthropic,API access,model_metadata,False,141.06336567868533,least_squares
+Claude Fable 5,2026-06-09,2026-06-09,1,8,1,Anthropic,API access,model_metadata,False,163.57619906536425,least_squares
+Claude Fable 5.1,2026-09-01,2026-09-01,1,6,1,Anthropic,API access,model_metadata,False,167.08333214794294,least_squares
+Claude Fable 5.2,2026-11-09,2026-11-09,1,7,1,Anthropic,API access,model_metadata,False,174.96042694504598,least_squares
+Claude Haiku 4.5,2025-10-15,2025-10-15,1,8,1,Anthropic,API access,model_metadata,False,142.23338359399207,least_squares
+Claude Haiku 5.5,2026-10-07,2026-10-07,1,7,1,Anthropic,API access,model_metadata,False,160.3743008995786,least_squares
+Claude Instant,2023-08-09,2023-08-09,1,2,1,Anthropic,API access,model_metadata,False,120.24745228034642,least_squares
+Claude Opus 4,2025-05-22,2025-05-22,1,9,1,Anthropic,API access,model_metadata,False,142.48296374393456,least_squares
+Claude Opus 4.1,2025-08-05,2025-08-05,1,6,1,Anthropic,API access,model_metadata,False,143.97977110354913,least_squares
+Claude Opus 4.5,2025-11-24,2025-11-24,1,11,1,Anthropic,API access,model_metadata,False,150.28110495298745,least_squares
+Claude Opus 4.6,2026-02-05,2026-02-05,1,9,1,Anthropic,API access,model_metadata,False,155.927201980418,least_squares
+Claude Opus 4.7,2026-04-16,2026-04-16,1,7,1,Anthropic,API access,model_metadata,False,156.7786794632964,least_squares
+Claude Opus 4.8,2026-05-28,2026-05-28,1,8,1,Anthropic,API access,model_metadata,False,159.6703133078878,least_squares
+Claude Opus 5,2026-07-24,2026-07-24,1,7,1,Anthropic,API access,model_metadata,False,164.89144472211197,least_squares
+Claude Opus 5.5,2026-09-22,2026-09-22,1,7,1,Anthropic,API access,model_metadata,False,169.795170732643,least_squares
+Claude Sonnet 4,2025-05-22,2025-05-22,1,12,1,Anthropic,API access,model_metadata,False,141.6452773883586,least_squares
+Claude Sonnet 4.5,2025-09-29,2025-09-29,1,12,1,Anthropic,API access,model_metadata,False,146.82043511518424,least_squares
+Claude Sonnet 4.6,2026-02-17,2026-02-17,1,9,1,Anthropic,API access,model_metadata,False,153.00810544117505,least_squares
+Claude Sonnet 5,2026-06-30,2026-06-30,1,8,1,Anthropic,API access,model_metadata,False,157.65940683673975,least_squares
+Claude Sonnet 5.5,2026-09-28,2026-09-28,1,6,1,Anthropic,API access,model_metadata,False,167.30742373635798,least_squares
+CodeQwen1.5-7B,2024-04-15,2024-04-15,1,1,0,unknown,,unknown,False,94.86341037748795,least_squares
+DeepSeek Coder 33B,2023-11-02,2023-11-02,1,2,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata,False,96.318976605327,least_squares
+DeepSeek Coder 6.7B,2024-01-25,2023-11-02,2,3,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata,False,89.62289403156845,least_squares
+DeepSeek V4 Flash 0731,2026-07-31,2026-07-31,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,155.08253193047085,least_squares
+DeepSeek V4 Pro 0813,2026-08-13,2026-08-13,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,155.91849760867626,least_squares
+DeepSeek V4.1 Flash,2026-09-09,2026-09-09,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,156.73184768140902,least_squares
+DeepSeek V4.1 Flash 1017,2026-10-17,2026-10-17,1,6,1,DeepSeek,Open weights (unrestricted),model_metadata,False,159.07692153467679,least_squares
+DeepSeek-Coder-V2-Lite-Base,2024-06-13,2024-06-13,1,1,0,unknown,,unknown,False,108.87675079710047,least_squares
+DeepSeek-R1,2025-01-20,2025-01-20,1,1,1,DeepSeek,Open weights (unrestricted),model_metadata,False,138.83971418725278,least_squares
+DeepSeek-R1 (May 2025),2025-05-28,2025-05-28,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata,False,141.1989396689221,least_squares
+"DeepSeek-V2 (MoE-236B, May 2024)",2024-05-07,2024-05-07,1,1,1,DeepSeek,Open weights (restricted use),model_metadata,False,124.80342737751789,least_squares
+DeepSeek-V3,2024-12-26,2024-12-26,1,2,1,DeepSeek,Open weights (restricted use),model_metadata,False,132.32775759250214,least_squares
+DeepSeek-V3 (Mar 2025),2025-03-24,2025-03-24,1,2,1,DeepSeek,Open weights (restricted use),model_metadata,False,135.89545172272423,least_squares
+DeepSeek-V3.1,2025-08-21,2025-08-21,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata,False,139.88513430450735,least_squares
+DeepSeek-V3.2,2025-12-01,2025-12-01,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,146.20044318680368,least_squares
+DeepSeek-V3.2-Exp,2025-09-29,2025-09-29,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,145.01942409713618,least_squares
+DeepSeek-V4-Flash,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,146.243307933166,least_squares
+DeepSeek-V4-Pro,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,149.20253550426526,least_squares
+Dolly 2.0-12b,2023-04-11,2023-04-11,1,1,1,Databricks,Open weights (unrestricted),model_metadata,False,89.72625484731878,least_squares
+Falcon 2 11B,2024-05-09,2024-05-09,1,1,1,Technology Innovation Institute,Open weights (restricted use),model_metadata,False,109.54332263246023,least_squares
+Falcon-180B,2023-09-06,2023-09-06,1,1,1,Technology Innovation Institute,Open weights (restricted use),model_metadata,False,112.10745821196457,least_squares
+Falcon-40B,2023-05-25,2023-03-15,2,2,1,Technology Innovation Institute,Open weights (unrestricted),model_metadata,False,104.46091851785603,least_squares
+Falcon-7B,2023-04-24,2023-04-24,1,1,1,Technology Innovation Institute,Open weights (unrestricted),model_metadata,False,95.10805945176871,least_squares
+GLM-4.7,2025-12-22,2025-12-22,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,143.69531026380434,least_squares
+GLM-5,2026-02-11,2026-02-11,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,145.85593469208928,least_squares
+GLM-5.1,2026-04-07,2026-04-07,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,149.96757316975095,least_squares
+GLM-5.2,2026-06-16,2026-06-16,1,7,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,152.35567942770172,least_squares
+GLM-5.3,2026-08-14,2026-08-14,1,4,1,Z.ai (Zhipu AI),Open weights (restricted use),model_metadata,False,156.35226959080532,least_squares
+GLM-5.3-Flash,2026-08-20,2026-08-20,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,153.40153728176446,least_squares
+GPT-3.5 Turbo (Jan 2024),2024-01-25,2024-01-25,1,1,1,OpenAI,API access,model_metadata,False,115.57018486995824,least_squares
+GPT-3.5 Turbo (Jun 2023),2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata,False,113.40457544330627,least_squares
+GPT-3.5 Turbo (Nov 2023),2023-11-06,2023-11-06,1,1,1,OpenAI,API access,model_metadata,False,118.51892808820082,least_squares
+GPT-4 (Jun 2023),2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata,False,123.03332882841381,least_squares
+GPT-4 (Mar 2023),2023-03-14,2023-03-14,1,2,1,OpenAI,API access,model_metadata,False,125.73506853148223,least_squares
+GPT-4 Turbo (Apr 2024),2024-04-09,2024-04-09,1,1,1,OpenAI,API access,model_metadata,False,127.20904552482331,least_squares
+GPT-4 Turbo (Nov 2023),2024-01-25,2023-11-06,2,3,1,OpenAI,API access,model_metadata,False,126.37147620559051,least_squares
+GPT-4.1,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,136.76988109008306,least_squares
+GPT-4.1 mini,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,134.93593885033823,least_squares
+GPT-4.1 nano,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,129.54159089245826,least_squares
+GPT-4.5,2025-02-27,2025-02-27,1,1,1,OpenAI,API access,model_metadata,False,136.7003167728592,least_squares
+GPT-4o (Aug 2024),2024-08-06,2024-08-06,1,1,1,OpenAI,API access,model_metadata,False,128.81937395350795,least_squares
+GPT-4o (May 2024),2024-05-13,2024-05-13,1,1,1,OpenAI,API access,model_metadata,False,128.96754492322896,least_squares
+GPT-4o (Nov 2024),2024-11-20,2024-11-20,1,2,1,OpenAI,API access,model_metadata,False,128.6482971472416,least_squares
+GPT-4o mini,2024-07-18,2024-07-18,1,1,1,OpenAI,API access,model_metadata,False,126.37270678814582,least_squares
+GPT-5,2025-08-07,2025-08-07,1,6,1,OpenAI,API access,model_metadata,False,150.0,least_squares
+GPT-5 Pro,2025-10-07,2025-10-07,1,3,1,OpenAI,API access,model_metadata,False,150.79244693132335,least_squares
+GPT-5 mini,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata,False,145.46281105990673,least_squares
+GPT-5 nano,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata,False,139.27618598323545,least_squares
+GPT-5.1,2025-11-13,2025-11-13,1,5,1,OpenAI,API access,model_metadata,False,149.96113741006755,least_squares
+GPT-5.2,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata,False,153.9657687931094,least_squares
+GPT-5.2 Pro,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata,False,156.6832799554194,least_squares
+GPT-5.4,2026-03-05,2026-03-05,1,6,1,OpenAI,API access,model_metadata,False,157.4017272749933,least_squares
+GPT-5.4 Mini,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata,False,148.86236852071758,least_squares
+GPT-5.4 Nano,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata,False,146.1510187550475,least_squares
+GPT-5.4 Pro,2026-03-05,2026-03-05,1,4,1,OpenAI,API access,model_metadata,False,160.02898665031313,least_squares
+GPT-5.5,2026-04-23,2026-04-23,1,7,1,OpenAI,API access,model_metadata,False,159.8628194586609,least_squares
+GPT-5.5 Pro,2026-04-23,2026-04-23,1,5,1,OpenAI,API access,model_metadata,False,163.4755141525487,least_squares
+GPT-5.6 Luna,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata,False,156.50183200662102,least_squares
+GPT-5.6 Sol,2026-07-09,2026-07-09,1,10,1,OpenAI,API access,model_metadata,False,163.0020655383808,least_squares
+GPT-5.6 Terra,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata,False,160.2326968872495,least_squares
+GPT-6 Astra,2026-09-03,2026-09-03,1,8,1,OpenAI,API access,model_metadata,False,169.96171851372702,least_squares
+GPT-6 Luna,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata,False,156.82919169915752,least_squares
+GPT-6 Sol,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata,False,163.76376147629918,least_squares
+GPT-6.1 Sol,2026-09-29,2026-09-29,1,6,1,OpenAI,API access,model_metadata,False,168.3876723762737,least_squares
+GPT-6.1 Terra,2026-10-26,2026-10-26,1,7,1,OpenAI,API access,model_metadata,False,168.7125343238498,least_squares
+Gemini 1.5 Flash (May 2024),2024-05-23,2024-05-14,2,2,1,Google DeepMind,API access,model_metadata,False,122.59766634513315,least_squares
+Gemini 1.5 Flash (Sep 2024),2024-09-24,2024-08-27,2,2,1,Google DeepMind,API access,model_metadata,False,129.21296124813495,least_squares
+Gemini 1.5 Pro (May 2024),2024-05-14,2024-05-14,1,1,1,Google DeepMind,API access,model_metadata,False,126.92186064181955,least_squares
+Gemini 1.5 Pro (Sept 2024),2024-09-24,2024-09-24,1,1,1,Google DeepMind,API access,model_metadata,False,131.72349138362236,least_squares
+Gemini 2.0 Flash (Feb 2025),2025-02-05,2025-02-05,1,2,1,"Google DeepMind,Google",API access,model_metadata,False,134.63133645611347,least_squares
+Gemini 2.0 Flash Thinking (Jan 2025),2025-01-21,2025-01-21,1,2,1,"Google DeepMind,Google",API access,model_metadata,False,135.37448548859473,least_squares
+Gemini 2.0 Pro,2025-02-05,2025-02-05,1,1,1,Google DeepMind,Hosted access (no API),model_metadata,False,135.19794229033405,least_squares
+Gemini 2.5 Flash (Apr 2025),2025-04-17,2025-04-17,1,3,1,Google DeepMind,API access,model_metadata,False,139.90066054292905,least_squares
+Gemini 2.5 Flash (Jun 2025),2025-06-17,2025-06-17,1,1,1,Google DeepMind,API access,model_metadata,False,140.6963913674244,least_squares
+Gemini 2.5 Flash (May 2025),2025-05-20,2025-05-20,1,5,1,Google DeepMind,API access,model_metadata,False,141.48953110623236,least_squares
+Gemini 2.5 Flash (Sep 2025),2025-09-25,2025-09-25,1,2,1,Google DeepMind,API access,model_metadata,False,143.01779279567128,least_squares
+Gemini 2.5 Flash-Lite (Jun 2025),2025-06-17,2025-06-17,1,2,1,Google DeepMind,API access,model_metadata,False,133.84558096800467,least_squares
+Gemini 2.5 Pro (Jun 2025),2025-06-05,2025-06-05,1,7,1,Google DeepMind,API access,model_metadata,False,145.38539816286058,least_squares
+Gemini 2.5 Pro (Mar 2025),2025-03-31,2025-03-25,2,2,1,Google DeepMind,API access,model_metadata,False,144.1122487929198,least_squares
+Gemini 2.5 Pro (May 2025),2025-05-06,2025-05-06,1,1,1,Google DeepMind,API access,model_metadata,False,142.19060216894263,least_squares
+Gemini 3 Flash,2025-12-17,2025-12-17,1,4,1,Google DeepMind,API access,model_metadata,False,152.12272352438342,least_squares
+Gemini 3 Pro,2025-11-18,2025-11-18,1,2,1,Google DeepMind,API access,model_metadata,False,153.3445928681743,least_squares
+Gemini 3.1 Flash-Lite,2026-03-03,2026-03-03,1,4,1,Google,API access,model_metadata,False,144.56544236482725,least_squares
+Gemini 3.1 Pro,2026-02-19,2026-02-19,1,5,1,Google DeepMind,API access,model_metadata,False,155.33871785765822,least_squares
+Gemini 3.5 Flash,2026-05-19,2026-05-19,1,5,1,Google DeepMind,API access,model_metadata,False,155.2015427853692,least_squares
+Gemini 3.5 Flash-Lite,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata,False,144.99134891575935,least_squares
+Gemini 3.6 Flash,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata,False,154.66189798823382,least_squares
+Gemini 3.7 Flash,2026-08-13,2026-08-13,1,4,1,Google DeepMind,API access,model_metadata,False,158.28838696061564,least_squares
+Gemini 3.8 Flash,2026-09-02,2026-09-02,1,4,1,Google DeepMind,API access,model_metadata,False,157.93000693797222,least_squares
+Gemini 4 Argon,2026-10-13,2026-10-13,1,5,1,Google DeepMind,API access,model_metadata,False,166.9186081313261,least_squares
+Gemini 4 Carbon,2026-11-10,2026-11-10,1,4,1,Google DeepMind,API access,model_metadata,False,170.72439947870959,least_squares
+Gemma 2 27B,2024-06-27,2024-06-24,2,3,1,Google DeepMind,Open weights (restricted use),model_metadata,False,122.0129081667242,least_squares
+Gemma 2 9B,2024-06-24,2024-06-24,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,119.72310640059754,least_squares
+Gemma 2B,2024-02-21,2024-02-21,1,1,1,Google DeepMind,Open weights (restricted use),model_metadata,False,94.18722710837906,least_squares
+Gemma 3 27B,2025-03-12,2025-03-11,2,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,129.88965963270172,least_squares
+Gemma 4 26B A4B,2026-04-02,2026-04-02,1,3,1,Google DeepMind,Open weights (unrestricted),model_metadata,False,141.95437034534885,least_squares
+Gemma 4 31B IT,2026-04-02,2026-04-02,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,143.08353768782766,least_squares
+Gemma 7B,2024-02-21,2024-02-21,1,1,1,Google DeepMind,Open weights (restricted use),model_metadata,False,112.01681755240095,least_squares
+Grok 3,2025-04-09,2025-04-09,1,2,1,xAI,API access,model_metadata,False,138.26831106649166,least_squares
+Grok 4,2025-07-09,2025-07-09,1,2,1,xAI,API access,model_metadata,False,146.41955152457632,least_squares
+Grok 4 Fast,2025-09-19,2025-09-19,1,1,1,xAI,API access,model_metadata,False,144.19701555037776,least_squares
+Grok 4.20,2026-02-17,2026-02-17,1,2,1,xAI,API access,model_metadata,False,152.3444745477329,least_squares
+Grok 4.3 Beta,2026-04-17,2026-04-17,1,4,1,xAI,Hosted access (no API),model_metadata,False,148.80505025485115,least_squares
+Grok 4.5,2026-07-08,2026-07-08,1,4,1,xAI,API access,model_metadata,False,154.36787342550332,least_squares
+Grok 4.6,2026-08-12,2026-08-12,1,5,1,xAI,API access,model_metadata,False,156.9559256976866,least_squares
+Grok 4.7,2026-09-21,2026-09-21,1,5,1,xAI,API access,model_metadata,False,154.98720795665977,least_squares
+Grok-2 (Dec 2024),2024-12-12,2024-12-12,1,2,1,xAI,API access,model_metadata,False,130.59227294142977,least_squares
+Grok-3 mini,2025-06-24,2025-04-09,2,7,1,xAI,API access,model_metadata,False,140.2983594646739,least_squares
+INTELLECT-1,2024-11-29,2024-11-29,1,1,1,"Prime Intellect,Hugging Face,Arcee AI",,model_metadata,False,100.87797006379296,least_squares
+Inkling,2026-07-15,2026-07-15,1,3,1,Thinking Machines,Open weights (unrestricted),model_metadata,False,148.56262615813097,least_squares
+Inkling-Small,2026-07-15,2026-07-15,1,7,1,Thinking Machines,Open weights (unrestricted),model_metadata,False,150.5282496811218,least_squares
+Kimi K2 (Jul 2025),2025-07-12,2025-07-12,1,2,1,Moonshot,Open weights (restricted use),model_metadata,False,139.94515164495408,least_squares
+Kimi K2 Thinking,2025-11-06,2025-11-06,1,5,1,Moonshot,Open weights (restricted use),model_metadata,False,145.56148613508415,least_squares
+Kimi K2.5,2026-01-27,2026-01-27,1,3,1,Moonshot,Open weights (unrestricted),model_metadata,False,148.17893083920333,least_squares
+Kimi K2.6,2026-04-20,2026-04-20,1,2,1,Moonshot,Open weights (unrestricted),model_metadata,False,151.13330452972798,least_squares
+Kimi K2.7 Code,2026-06-12,2026-06-12,1,1,1,Moonshot,Open weights (unrestricted),model_metadata,False,150.3018571844944,least_squares
+Kimi K3,2026-07-16,2026-07-16,1,4,1,Moonshot,Open weights (non-commercial),model_metadata,False,158.41876295825904,least_squares
+Kimi K3.1 Pro,2026-10-23,2026-10-23,1,8,1,Moonshot,Open weights (restricted use),model_metadata,False,162.0189649845139,least_squares
+LLaMA-13B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,100.65811304581753,least_squares
+LLaMA-33B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,107.41499151284262,least_squares
+LLaMA-65B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,110.1698815503613,least_squares
+LLaMA-7B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,97.0067197083968,least_squares
+Llama 2-13B,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,105.83994683019453,least_squares
+Llama 2-34B,2023-07-18,2023-07-18,1,1,1,Meta AI,Unreleased,model_metadata,True,105.21081904225565,least_squares
+Llama 2-70B,2023-07-18,2023-07-18,1,4,1,Meta AI,Open weights (restricted use),model_metadata,False,113.78775256551708,least_squares
+Llama 2-7B,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,98.9730596893044,least_squares
+Llama 3-70B,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,122.94326747472024,least_squares
+Llama 3-8B,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,116.41970174557619,least_squares
+Llama 3.1-405B,2024-07-23,2024-07-23,1,3,1,Meta AI,Open weights (restricted use),model_metadata,False,128.75794072086575,least_squares
+Llama 3.1-70B,2024-07-23,2024-07-23,1,1,1,Meta AI,Open weights (restricted use),model_metadata,False,125.84975275485931,least_squares
+Llama 3.1-8B,2024-07-23,2024-07-23,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,116.35321460333788,least_squares
+Llama 3.2 90B,2024-09-24,2024-09-24,1,1,1,Meta AI,Open weights (restricted use),model_metadata,False,125.4014496450244,least_squares
+Llama 3.3 70B,2024-12-06,2024-12-06,1,3,1,Meta AI,Open weights (restricted use),model_metadata,False,127.28036073170394,least_squares
+Llama 4 Maverick,2025-04-06,2025-04-05,2,3,1,Meta AI,Open weights (restricted use),model_metadata,False,132.35267681992312,least_squares
+Llama 4 Scout,2025-04-05,2025-04-05,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,129.62874269768398,least_squares
+MPT-30B,2023-06-22,2023-06-22,1,2,1,MosaicML,Open weights (unrestricted),model_metadata,False,100.65798045128355,least_squares
+MPT-7B,2023-05-05,2023-05-05,1,2,1,MosaicML,Open weights (unrestricted),model_metadata,False,94.59253249462856,least_squares
+MiniMax-M3,2026-06-01,2026-06-01,1,2,1,MiniMax,Open weights (restricted use),model_metadata,False,147.1435551206322,least_squares
+Mistral 7B v0.1,2023-09-27,2023-09-27,1,2,1,Mistral AI,Open weights (unrestricted),model_metadata,False,112.23109276472405,least_squares
+Mistral Large,2024-02-26,2024-02-26,1,1,1,Mistral AI,API access,model_metadata,False,121.98855478435807,least_squares
+Mistral Large 2 (Jul 2024),2024-07-24,2024-07-24,1,2,1,Mistral AI,Open weights (non-commercial),model_metadata,False,127.54683531404088,least_squares
+Mistral Large 4,2026-10-29,2026-10-29,1,3,1,Mistral AI,Open weights (restricted use),model_metadata,False,150.10642444067386,least_squares
+Mistral Large 4 Preview,2026-10-06,2026-10-06,1,3,1,Mistral AI,Open weights (restricted use),model_metadata,False,150.83588543795346,least_squares
+Mistral Medium 3,2025-05-07,2025-05-07,1,1,1,Mistral AI,API access,model_metadata,False,134.02533225361907,least_squares
+Mistral Medium 3.5,2026-04-28,2026-04-28,1,1,1,Mistral AI,Open weights (restricted use),model_metadata,False,141.4149627490317,least_squares
+Mistral NeMo,2024-07-18,2024-07-18,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,118.59011619192665,least_squares
+Mixtral 8x22B,2024-04-17,2024-04-17,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,121.9286841041045,least_squares
+Mixtral 8x7B,2023-12-11,2023-12-11,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,118.44356786389488,least_squares
+Muse Spark,2026-04-08,2026-04-08,1,1,1,Meta AI,API access,model_metadata,False,152.2589633405599,least_squares
+Muse Spark 1.1,2026-07-09,2026-07-09,1,4,1,Meta AI,API access,model_metadata,False,154.33425651689666,least_squares
+Muse Spark 1.2,2026-08-05,2026-08-05,1,2,1,Meta AI,API access,model_metadata,False,155.3510422802665,least_squares
+Muse Spark 1.3,2026-09-02,2026-09-02,1,7,1,Meta AI,API access,model_metadata,False,158.12724582504828,least_squares
+Muse Spark Open,2026-10-15,2026-10-15,1,5,1,Meta AI,Open weights (restricted use),model_metadata,False,155.20352485335087,least_squares
+Muse Wonder,2026-10-12,2026-10-12,1,7,1,Meta AI,API access,model_metadata,False,161.90290341592996,least_squares
+Nemotron 3 Ultra,2026-06-04,2026-06-04,1,1,1,Nvidia,Open weights (unrestricted),model_metadata,False,145.6083254184654,least_squares
+Nemotron-4 15B,2024-02-26,2024-02-26,1,1,1,Nvidia,Unreleased,model_metadata,True,107.71950429498212,least_squares
+PaLM 2-L,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,115.00529446331747,least_squares
+PaLM 2-M,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,108.2531453165125,least_squares
+PaLM 2-S,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,106.14012415447485,least_squares
+Phi-1.5,2023-09-11,2023-09-11,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,91.56144696314132,least_squares
+Phi-2,2023-12-12,2023-12-12,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,108.00611615312877,least_squares
+Phi-4,2024-12-12,2024-12-12,1,2,1,Microsoft Research,Open weights (unrestricted),model_metadata,False,130.60202695058132,least_squares
+QwQ-32B,2025-03-05,2025-03-05,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,137.53290115537746,least_squares
+Qwen 3.5 Flash (hosted 35B-A3B),2026-02-25,2026-02-25,1,2,1,Alibaba,,model_metadata,False,143.62816481874694,least_squares
+Qwen 3.5 Plus (hosted 397B-A17B),2026-02-16,2026-02-16,1,2,1,Alibaba,,model_metadata,False,146.2985869358914,least_squares
+Qwen 3.6 35B-A3B,2026-04-14,2026-04-14,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,143.83277310000108,least_squares
+Qwen 3.6 Flash,2026-04-27,2026-04-27,1,2,1,Alibaba,,model_metadata,False,142.98023822835452,least_squares
+Qwen 3.6 Max (Preview),2026-04-20,2026-04-20,1,2,1,Alibaba,,model_metadata,False,149.48614801068166,least_squares
+Qwen 3.6 Plus,2026-03-31,2026-03-31,1,2,1,Alibaba,API access,model_metadata,False,147.96377753723849,least_squares
+Qwen 3.8 27B,2026-08-14,2026-08-14,1,5,1,Alibaba,Open weights (unrestricted),model_metadata,False,151.7528372077287,least_squares
+Qwen 3.8 Max,2026-08-02,2026-08-02,1,2,1,Alibaba,API access,model_metadata,False,158.02503865602043,least_squares
+Qwen-14B,2023-09-24,2023-09-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata,False,113.06577853056609,least_squares
+Qwen-1_8B,2023-11-30,2023-11-30,1,1,0,unknown,,unknown,False,92.95482171815377,least_squares
+Qwen-7B,2023-09-28,2023-09-28,1,1,1,Alibaba,Open weights (restricted use),model_metadata,False,106.83347983218663,least_squares
+Qwen2-72B,2024-06-07,2024-06-07,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,125.18615993959261,least_squares
+Qwen2.5-72B,2024-09-19,2024-09-19,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,128.9088040242887,least_squares
+Qwen2.5-Coder (1.5B),2024-09-18,2024-09-18,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,102.99672753238977,least_squares
+Qwen2.5-Coder (7B),2024-09-18,2024-09-18,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,113.14101146110465,least_squares
+Qwen2.5-Coder-0.5B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,88.18145952318883,least_squares
+Qwen2.5-Coder-14B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,116.4088020436708,least_squares
+Qwen2.5-Coder-32B,2024-09-18,2024-09-18,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,119.49203845239064,least_squares
+Qwen2.5-Coder-3B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,107.71115524776337,least_squares
+Qwen2.5-Max,2025-01-25,2025-01-25,1,2,1,Alibaba,API access,model_metadata,False,132.50879348600483,least_squares
+Qwen3-14B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.2189911510595,least_squares
+Qwen3-235B-A22B,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,139.17902539902485,least_squares
+Qwen3-235B-A22B-Instruct (Jul 2025),2025-07-25,2025-07-25,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.85717970491672,least_squares
+Qwen3-235B-A22B-Thinking (Jul 2025),2025-07-25,2025-07-25,1,5,1,Alibaba,Open weights (unrestricted),model_metadata,False,143.82822149723935,least_squares
+Qwen3-30B-A3B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,136.1639662852496,least_squares
+Qwen3-30B-A3B-Instruct (Jul 2025),2025-07-29,2025-07-29,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,137.3392050985683,least_squares
+Qwen3-30B-A3B-Thinking (Jul 2025),2025-07-30,2025-07-30,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,139.61851728307144,least_squares
+Qwen3-32B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.49726662504307,least_squares
+Qwen3-8B,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,136.12754902672543,least_squares
+Qwen3-Max,2025-09-24,2025-09-24,1,1,1,Alibaba,API access,model_metadata,False,142.41269059652433,least_squares
+Qwen3.5 397B-A17B,2026-02-13,2026-02-13,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,146.8975556630301,least_squares
+Qwen3.5-35B-A3B,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,142.577545809773,least_squares
+Qwen3.5-9B,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata,False,139.39528954181714,least_squares
+Qwen3.6 27B,2026-04-22,2026-04-22,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,146.34356586374577,least_squares
+Qwen3.7-Max,2026-05-19,2026-05-19,1,2,1,Alibaba,API access,model_metadata,False,154.3708042282843,least_squares
+Qwen3.7-Plus,2026-06-02,2026-06-02,1,2,1,Alibaba,API access,model_metadata,False,147.14721791394433,least_squares
+Qwen3.8 Max (0902),2026-09-01,2026-09-01,1,2,1,Alibaba,API access,model_metadata,False,156.01507687075974,least_squares
+RedPajama-INCITE-7B-Base,2023-05-04,2023-05-04,1,1,0,unknown,,unknown,False,90.46855125475307,least_squares
+Stable Beluga 2,2023-07-20,2023-07-20,1,1,1,Stability AI,Open weights (non-commercial),model_metadata,False,117.13801893710723,least_squares
+StarCoder 2 15B,2024-02-20,2024-02-20,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,105.02168501746989,least_squares
+StarCoder 2 3B,2024-02-22,2024-02-22,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,88.76830858438646,least_squares
+StarCoder 2 7B,2024-02-20,2024-02-20,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,93.57620541536093,least_squares
+XGen-7B,2023-06-27,2023-06-27,1,1,1,Salesforce,Open weights (unrestricted),model_metadata,False,93.45115659377942,least_squares
+Yi 6B,2023-11-22,2023-11-02,2,2,1,01.AI,Open weights (restricted use),model_metadata,False,104.79028076636203,least_squares
+Yi-9B,2024-03-01,2024-03-01,1,1,0,unknown,,unknown,False,107.662419319229,least_squares
+chatglm2-6b,2023-06-24,2023-06-24,1,1,0,unknown,,unknown,False,98.96799776158639,least_squares
+gpt-oss-120b,2025-08-05,2025-08-05,1,9,1,OpenAI,Open weights (unrestricted),model_metadata,False,139.85868023807402,least_squares
+gpt-oss-20b,2025-08-05,2025-08-05,1,5,1,OpenAI,Open weights (unrestricted),model_metadata,False,137.77324666414108,least_squares
+internlm-20b,2023-09-18,2023-09-18,1,1,0,unknown,,unknown,False,112.12011482421924,least_squares
+internlm-7b,2023-07-05,2023-07-05,1,1,0,unknown,,unknown,False,102.89543338064009,least_squares
+o1,2024-12-17,2024-12-17,1,4,1,OpenAI,API access,model_metadata,False,141.85390372038114,least_squares
+o1-mini,2024-09-12,2024-09-12,1,4,1,OpenAI,API access,model_metadata,False,135.83209182985723,least_squares
+o1-preview,2024-09-12,2024-09-12,1,1,1,OpenAI,API access,model_metadata,False,134.595385594293,least_squares
+o3,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata,False,146.91618859437273,least_squares
+o3-mini,2025-01-31,2025-01-31,1,4,1,OpenAI,API access,model_metadata,False,140.34686838984976,least_squares
+o3-pro,2025-06-10,2025-06-10,1,4,1,OpenAI,API access,model_metadata,False,147.46779934626818,least_squares
+o4-mini,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata,False,145.61853870669412,least_squares
+open_llama_7b,2023-06-07,2023-06-07,1,1,0,unknown,,unknown,False,91.69120913328733,least_squares
+phi-3-medium 14B,2024-04-23,2024-04-23,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,121.16876749855383,least_squares
+phi-3-mini 3.8B,2024-04-23,2024-04-23,1,2,1,Microsoft,Open weights (unrestricted),model_metadata,False,117.38594692124119,least_squares
+phi-3-small 7.4B,2024-04-23,2024-04-23,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,121.83754681099256,least_squares
+vicuna-13b-v1.1,2023-04-12,2023-04-12,1,1,0,unknown,,unknown,False,94.61437918023773,least_squares
+Baichuan 2-7B,2023-09-20,2023-09-20,1,1,1,Baichuan,Open weights (restricted use),model_metadata,False,83.75,epoch_published
+Baichuan2-13B,2023-09-06,2023-09-06,1,1,1,Baichuan,Open weights (restricted use),model_metadata,False,91.97,epoch_published
+Beam 1.0,2026-10-05,2026-10-05,1,6,1,Reflection,Open weights (unrestricted),model_metadata,False,150.91,epoch_published
+Cerebras-GPT-13B,2023-03-20,2023-03-20,1,1,1,Cerebras Systems,Open weights (unrestricted),model_metadata,False,49.33,epoch_published
+Claude 2,2023-07-11,2023-07-11,1,1,1,Anthropic,API access,model_metadata,False,117.06,epoch_published
+Claude 3 Haiku,2024-03-07,2024-03-07,1,1,1,Anthropic,API access,model_metadata,False,117.7,epoch_published
+Claude 3 Opus,2024-02-29,2024-02-29,1,1,1,Anthropic,API access,model_metadata,False,125.52,epoch_published
+Claude 3 Sonnet,2024-02-29,2024-02-29,1,1,1,Anthropic,API access,model_metadata,False,119.45,epoch_published
+Claude 3.5 Haiku,2024-10-22,2024-10-22,1,1,1,Anthropic,API access,model_metadata,False,124.93,epoch_published
+Claude 3.5 Sonnet,2024-06-20,2024-06-20,1,1,1,Anthropic,API access,model_metadata,False,130.0,epoch_published
+Claude 3.5 Sonnet (October 2024),2024-10-22,2024-10-22,1,1,1,Anthropic,API access,model_metadata,False,133.43,epoch_published
+Claude 3.7 Sonnet,2025-02-24,2025-02-24,1,10,1,Anthropic,API access,model_metadata,False,141.0,epoch_published
+Claude Fable 5,2026-06-09,2026-06-09,1,8,1,Anthropic,API access,model_metadata,False,164.13,epoch_published
+Claude Fable 5.1,2026-09-01,2026-09-01,1,6,1,Anthropic,API access,model_metadata,False,166.99,epoch_published
+Claude Fable 5.2,2026-11-09,2026-11-09,1,7,1,Anthropic,API access,model_metadata,False,173.44,epoch_published
+Claude Haiku 4.5,2025-10-15,2025-10-15,1,8,1,Anthropic,API access,model_metadata,False,142.83,epoch_published
+Claude Haiku 5.5,2026-10-07,2026-10-07,1,7,1,Anthropic,API access,model_metadata,False,160.43,epoch_published
+Claude Instant,2023-08-09,2023-08-09,1,2,1,Anthropic,API access,model_metadata,False,114.16,epoch_published
+Claude Opus 4,2025-05-22,2025-05-22,1,9,1,Anthropic,API access,model_metadata,False,142.9,epoch_published
+Claude Opus 4.1,2025-08-05,2025-08-05,1,6,1,Anthropic,API access,model_metadata,False,144.84,epoch_published
+Claude Opus 4.5,2025-11-24,2025-11-24,1,11,1,Anthropic,API access,model_metadata,False,151.92,epoch_published
+Claude Opus 4.6,2026-02-05,2026-02-05,1,9,1,Anthropic,API access,model_metadata,False,156.34,epoch_published
+Claude Opus 4.7,2026-04-16,2026-04-16,1,7,1,Anthropic,API access,model_metadata,False,157.44,epoch_published
+Claude Opus 4.8,2026-05-28,2026-05-28,1,8,1,Anthropic,API access,model_metadata,False,159.94,epoch_published
+Claude Opus 5,2026-07-24,2026-07-24,1,7,1,Anthropic,API access,model_metadata,False,164.68,epoch_published
+Claude Opus 5.5,2026-09-22,2026-09-22,1,7,1,Anthropic,API access,model_metadata,False,168.54,epoch_published
+Claude Sonnet 4,2025-05-22,2025-05-22,1,12,1,Anthropic,API access,model_metadata,False,141.86,epoch_published
+Claude Sonnet 4.5,2025-09-29,2025-09-29,1,12,1,Anthropic,API access,model_metadata,False,147.63,epoch_published
+Claude Sonnet 4.6,2026-02-17,2026-02-17,1,9,1,Anthropic,API access,model_metadata,False,152.86,epoch_published
+Claude Sonnet 5,2026-06-30,2026-06-30,1,8,1,Anthropic,API access,model_metadata,False,156.94,epoch_published
+Claude Sonnet 5.5,2026-09-28,2026-09-28,1,6,1,Anthropic,API access,model_metadata,False,166.56,epoch_published
+CodeQwen1.5-7B,2024-04-15,2024-04-15,1,1,0,unknown,,unknown,False,75.18,epoch_published
+DeepSeek Coder 33B,2023-11-02,2023-11-02,1,2,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata,False,76.59,epoch_published
+DeepSeek Coder 6.7B,2024-01-25,2023-11-02,2,3,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata,False,67.77,epoch_published
+DeepSeek V4 Flash 0731,2026-07-31,2026-07-31,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,154.41,epoch_published
+DeepSeek V4 Pro 0813,2026-08-13,2026-08-13,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,155.94,epoch_published
+DeepSeek V4.1 Flash,2026-09-09,2026-09-09,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,156.7,epoch_published
+DeepSeek V4.1 Flash 1017,2026-10-17,2026-10-17,1,6,1,DeepSeek,Open weights (unrestricted),model_metadata,False,159.41,epoch_published
+DeepSeek-Coder-V2-Lite-Base,2024-06-13,2024-06-13,1,1,0,unknown,,unknown,False,99.67,epoch_published
+DeepSeek-R1,2025-01-20,2025-01-20,1,1,1,DeepSeek,Open weights (unrestricted),model_metadata,False,138.59,epoch_published
+DeepSeek-R1 (May 2025),2025-05-28,2025-05-28,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata,False,140.73,epoch_published
+"DeepSeek-V2 (MoE-236B, May 2024)",2024-05-07,2024-05-07,1,1,1,DeepSeek,Open weights (restricted use),model_metadata,False,120.88,epoch_published
+DeepSeek-V3,2024-12-26,2024-12-26,1,2,1,DeepSeek,Open weights (restricted use),model_metadata,False,131.7,epoch_published
+DeepSeek-V3 (Mar 2025),2025-03-24,2025-03-24,1,2,1,DeepSeek,Open weights (restricted use),model_metadata,False,135.18,epoch_published
+DeepSeek-V3.1,2025-08-21,2025-08-21,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata,False,140.85,epoch_published
+DeepSeek-V3.2,2025-12-01,2025-12-01,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,146.25,epoch_published
+DeepSeek-V3.2-Exp,2025-09-29,2025-09-29,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,144.38,epoch_published
+DeepSeek-V4-Flash,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,146.85,epoch_published
+DeepSeek-V4-Pro,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,150.17,epoch_published
+Dolly 2.0-12b,2023-04-11,2023-04-11,1,1,1,Databricks,Open weights (unrestricted),model_metadata,False,55.82,epoch_published
+Falcon 2 11B,2024-05-09,2024-05-09,1,1,1,Technology Innovation Institute,Open weights (restricted use),model_metadata,False,99.33,epoch_published
+Falcon-180B,2023-09-06,2023-09-06,1,1,1,Technology Innovation Institute,Open weights (restricted use),model_metadata,False,107.11,epoch_published
+Falcon-40B,2023-05-25,2023-03-15,2,2,1,Technology Innovation Institute,Open weights (unrestricted),model_metadata,False,90.88,epoch_published
+Falcon-7B,2023-04-24,2023-04-24,1,1,1,Technology Innovation Institute,Open weights (unrestricted),model_metadata,False,73.37,epoch_published
+GLM-4.7,2025-12-22,2025-12-22,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,143.28,epoch_published
+GLM-5,2026-02-11,2026-02-11,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,146.48,epoch_published
+GLM-5.1,2026-04-07,2026-04-07,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,150.73,epoch_published
+GLM-5.2,2026-06-16,2026-06-16,1,7,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,153.03,epoch_published
+GLM-5.3,2026-08-14,2026-08-14,1,4,1,Z.ai (Zhipu AI),Open weights (restricted use),model_metadata,False,157.1,epoch_published
+GLM-5.3-Flash,2026-08-20,2026-08-20,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,153.82,epoch_published
+GPT-3.5 Turbo (Jan 2024),2024-01-25,2024-01-25,1,1,1,OpenAI,API access,model_metadata,False,113.06,epoch_published
+GPT-3.5 Turbo (Jun 2023),2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata,False,105.99,epoch_published
+GPT-3.5 Turbo (Nov 2023),2023-11-06,2023-11-06,1,1,1,OpenAI,API access,model_metadata,False,112.91,epoch_published
+GPT-4 (Jun 2023),2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata,False,120.13,epoch_published
+GPT-4 (Mar 2023),2023-03-14,2023-03-14,1,2,1,OpenAI,API access,model_metadata,False,121.77,epoch_published
+GPT-4 Turbo (Apr 2024),2024-04-09,2024-04-09,1,1,1,OpenAI,API access,model_metadata,False,125.82,epoch_published
+GPT-4 Turbo (Nov 2023),2024-01-25,2023-11-06,2,3,1,OpenAI,API access,model_metadata,False,124.77,epoch_published
+GPT-4.1,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,136.15,epoch_published
+GPT-4.1 mini,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,134.2,epoch_published
+GPT-4.1 nano,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,126.77,epoch_published
+GPT-4.5,2025-02-27,2025-02-27,1,1,1,OpenAI,API access,model_metadata,False,136.45,epoch_published
+GPT-4o (Aug 2024),2024-08-06,2024-08-06,1,1,1,OpenAI,API access,model_metadata,False,127.05,epoch_published
+GPT-4o (May 2024),2024-05-13,2024-05-13,1,1,1,OpenAI,API access,model_metadata,False,128.16,epoch_published
+GPT-4o (Nov 2024),2024-11-20,2024-11-20,1,2,1,OpenAI,API access,model_metadata,False,128.84,epoch_published
+GPT-4o mini,2024-07-18,2024-07-18,1,1,1,OpenAI,API access,model_metadata,False,123.86,epoch_published
+GPT-5,2025-08-07,2025-08-07,1,6,1,OpenAI,API access,model_metadata,False,150.0,epoch_published
+GPT-5 Pro,2025-10-07,2025-10-07,1,3,1,OpenAI,API access,model_metadata,False,151.23,epoch_published
+GPT-5 mini,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata,False,146.09,epoch_published
+GPT-5 nano,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata,False,139.1,epoch_published
+GPT-5.1,2025-11-13,2025-11-13,1,5,1,OpenAI,API access,model_metadata,False,150.94,epoch_published
+GPT-5.2,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata,False,154.46,epoch_published
+GPT-5.2 Pro,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata,False,157.27,epoch_published
+GPT-5.4,2026-03-05,2026-03-05,1,6,1,OpenAI,API access,model_metadata,False,157.85,epoch_published
+GPT-5.4 Mini,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata,False,149.34,epoch_published
+GPT-5.4 Nano,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata,False,146.4,epoch_published
+GPT-5.4 Pro,2026-03-05,2026-03-05,1,4,1,OpenAI,API access,model_metadata,False,160.24,epoch_published
+GPT-5.5,2026-04-23,2026-04-23,1,7,1,OpenAI,API access,model_metadata,False,160.1,epoch_published
+GPT-5.5 Pro,2026-04-23,2026-04-23,1,5,1,OpenAI,API access,model_metadata,False,162.7,epoch_published
+GPT-5.6 Luna,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata,False,156.67,epoch_published
+GPT-5.6 Sol,2026-07-09,2026-07-09,1,10,1,OpenAI,API access,model_metadata,False,162.99,epoch_published
+GPT-5.6 Terra,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata,False,160.73,epoch_published
+GPT-6 Astra,2026-09-03,2026-09-03,1,8,1,OpenAI,API access,model_metadata,False,169.0,epoch_published
+GPT-6 Luna,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata,False,156.41,epoch_published
+GPT-6 Sol,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata,False,163.75,epoch_published
+GPT-6.1 Sol,2026-09-29,2026-09-29,1,6,1,OpenAI,API access,model_metadata,False,168.48,epoch_published
+GPT-6.1 Terra,2026-10-26,2026-10-26,1,7,1,OpenAI,API access,model_metadata,False,167.67,epoch_published
+Gemini 1.5 Flash (May 2024),2024-05-23,2024-05-14,2,2,1,Google DeepMind,API access,model_metadata,False,120.42,epoch_published
+Gemini 1.5 Flash (Sep 2024),2024-09-24,2024-08-27,2,2,1,Google DeepMind,API access,model_metadata,False,126.96,epoch_published
+Gemini 1.5 Pro (May 2024),2024-05-14,2024-05-14,1,1,1,Google DeepMind,API access,model_metadata,False,125.31,epoch_published
+Gemini 1.5 Pro (Sept 2024),2024-09-24,2024-09-24,1,1,1,Google DeepMind,API access,model_metadata,False,130.37,epoch_published
+Gemini 2.0 Flash (Feb 2025),2025-02-05,2025-02-05,1,2,1,"Google DeepMind,Google",API access,model_metadata,False,133.94,epoch_published
+Gemini 2.0 Flash Thinking (Jan 2025),2025-01-21,2025-01-21,1,2,1,"Google DeepMind,Google",API access,model_metadata,False,133.77,epoch_published
+Gemini 2.0 Pro,2025-02-05,2025-02-05,1,1,1,Google DeepMind,Hosted access (no API),model_metadata,False,135.34,epoch_published
+Gemini 2.5 Flash (Apr 2025),2025-04-17,2025-04-17,1,3,1,Google DeepMind,API access,model_metadata,False,140.75,epoch_published
+Gemini 2.5 Flash (Jun 2025),2025-06-17,2025-06-17,1,1,1,Google DeepMind,API access,model_metadata,False,140.81,epoch_published
+Gemini 2.5 Flash (May 2025),2025-05-20,2025-05-20,1,5,1,Google DeepMind,API access,model_metadata,False,141.58,epoch_published
+Gemini 2.5 Flash (Sep 2025),2025-09-25,2025-09-25,1,2,1,Google DeepMind,API access,model_metadata,False,141.93,epoch_published
+Gemini 2.5 Flash-Lite (Jun 2025),2025-06-17,2025-06-17,1,2,1,Google DeepMind,API access,model_metadata,False,133.05,epoch_published
+Gemini 2.5 Pro (Jun 2025),2025-06-05,2025-06-05,1,7,1,Google DeepMind,API access,model_metadata,False,144.87,epoch_published
+Gemini 2.5 Pro (Mar 2025),2025-03-31,2025-03-25,2,2,1,Google DeepMind,API access,model_metadata,False,143.95,epoch_published
+Gemini 2.5 Pro (May 2025),2025-05-06,2025-05-06,1,1,1,Google DeepMind,API access,model_metadata,False,140.87,epoch_published
+Gemini 3 Flash,2025-12-17,2025-12-17,1,4,1,Google DeepMind,API access,model_metadata,False,152.32,epoch_published
+Gemini 3 Pro,2025-11-18,2025-11-18,1,2,1,Google DeepMind,API access,model_metadata,False,152.98,epoch_published
+Gemini 3.1 Flash-Lite,2026-03-03,2026-03-03,1,4,1,Google,API access,model_metadata,False,145.01,epoch_published
+Gemini 3.1 Pro,2026-02-19,2026-02-19,1,5,1,Google DeepMind,API access,model_metadata,False,156.18,epoch_published
+Gemini 3.5 Flash,2026-05-19,2026-05-19,1,5,1,Google DeepMind,API access,model_metadata,False,155.28,epoch_published
+Gemini 3.5 Flash-Lite,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata,False,145.63,epoch_published
+Gemini 3.6 Flash,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata,False,155.21,epoch_published
+Gemini 3.7 Flash,2026-08-13,2026-08-13,1,4,1,Google DeepMind,API access,model_metadata,False,158.36,epoch_published
+Gemini 3.8 Flash,2026-09-02,2026-09-02,1,4,1,Google DeepMind,API access,model_metadata,False,158.79,epoch_published
+Gemini 4 Argon,2026-10-13,2026-10-13,1,5,1,Google DeepMind,API access,model_metadata,False,166.48,epoch_published
+Gemini 4 Carbon,2026-11-10,2026-11-10,1,4,1,Google DeepMind,API access,model_metadata,False,169.76,epoch_published
+Gemma 2 27B,2024-06-27,2024-06-24,2,3,1,Google DeepMind,Open weights (restricted use),model_metadata,False,118.59,epoch_published
+Gemma 2 9B,2024-06-24,2024-06-24,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,112.7,epoch_published
+Gemma 2B,2024-02-21,2024-02-21,1,1,1,Google DeepMind,Open weights (restricted use),model_metadata,False,76.01,epoch_published
+Gemma 3 27B,2025-03-12,2025-03-11,2,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,127.51,epoch_published
+Gemma 4 26B A4B,2026-04-02,2026-04-02,1,3,1,Google DeepMind,Open weights (unrestricted),model_metadata,False,141.64,epoch_published
+Gemma 4 31B IT,2026-04-02,2026-04-02,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,144.27,epoch_published
+Gemma 7B,2024-02-21,2024-02-21,1,1,1,Google DeepMind,Open weights (restricted use),model_metadata,False,103.27,epoch_published
+Grok 3,2025-04-09,2025-04-09,1,2,1,xAI,API access,model_metadata,False,137.49,epoch_published
+Grok 4,2025-07-09,2025-07-09,1,2,1,xAI,API access,model_metadata,False,146.9,epoch_published
+Grok 4 Fast,2025-09-19,2025-09-19,1,1,1,xAI,API access,model_metadata,False,144.31,epoch_published
+Grok 4.20,2026-02-17,2026-02-17,1,2,1,xAI,API access,model_metadata,False,152.28,epoch_published
+Grok 4.3 Beta,2026-04-17,2026-04-17,1,4,1,xAI,Hosted access (no API),model_metadata,False,149.89,epoch_published
+Grok 4.5,2026-07-08,2026-07-08,1,4,1,xAI,API access,model_metadata,False,154.98,epoch_published
+Grok 4.6,2026-08-12,2026-08-12,1,5,1,xAI,API access,model_metadata,False,157.79,epoch_published
+Grok 4.7,2026-09-21,2026-09-21,1,5,1,xAI,API access,model_metadata,False,156.18,epoch_published
+Grok-2 (Dec 2024),2024-12-12,2024-12-12,1,2,1,xAI,API access,model_metadata,False,129.73,epoch_published
+Grok-3 mini,2025-06-24,2025-04-09,2,7,1,xAI,API access,model_metadata,False,139.88,epoch_published
+INTELLECT-1,2024-11-29,2024-11-29,1,1,1,"Prime Intellect,Hugging Face,Arcee AI",,model_metadata,False,83.54,epoch_published
+Inkling,2026-07-15,2026-07-15,1,3,1,Thinking Machines,Open weights (unrestricted),model_metadata,False,148.39,epoch_published
+Inkling-Small,2026-07-15,2026-07-15,1,7,1,Thinking Machines,Open weights (unrestricted),model_metadata,False,150.75,epoch_published
+Kimi K2 (Jul 2025),2025-07-12,2025-07-12,1,2,1,Moonshot,Open weights (restricted use),model_metadata,False,141.24,epoch_published
+Kimi K2 Thinking,2025-11-06,2025-11-06,1,5,1,Moonshot,Open weights (restricted use),model_metadata,False,145.43,epoch_published
+Kimi K2.5,2026-01-27,2026-01-27,1,3,1,Moonshot,Open weights (unrestricted),model_metadata,False,148.76,epoch_published
+Kimi K2.6,2026-04-20,2026-04-20,1,2,1,Moonshot,Open weights (unrestricted),model_metadata,False,151.56,epoch_published
+Kimi K2.7 Code,2026-06-12,2026-06-12,1,1,1,Moonshot,Open weights (unrestricted),model_metadata,False,151.15,epoch_published
+Kimi K3,2026-07-16,2026-07-16,1,4,1,Moonshot,Open weights (non-commercial),model_metadata,False,158.58,epoch_published
+Kimi K3.1 Pro,2026-10-23,2026-10-23,1,8,1,Moonshot,Open weights (restricted use),model_metadata,False,161.37,epoch_published
+LLaMA-13B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,85.42,epoch_published
+LLaMA-33B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,96.64,epoch_published
+LLaMA-65B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,101.68,epoch_published
+LLaMA-7B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,77.53,epoch_published
+Llama 2-13B,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,96.66,epoch_published
+Llama 2-34B,2023-07-18,2023-07-18,1,1,1,Meta AI,Unreleased,model_metadata,True,94.09,epoch_published
+Llama 2-70B,2023-07-18,2023-07-18,1,4,1,Meta AI,Open weights (restricted use),model_metadata,False,105.85,epoch_published
+Llama 2-7B,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,83.38,epoch_published
+Llama 3-70B,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,121.22,epoch_published
+Llama 3-8B,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,109.42,epoch_published
+Llama 3.1-405B,2024-07-23,2024-07-23,1,3,1,Meta AI,Open weights (restricted use),model_metadata,False,127.8,epoch_published
+Llama 3.1-70B,2024-07-23,2024-07-23,1,1,1,Meta AI,Open weights (restricted use),model_metadata,False,124.7,epoch_published
+Llama 3.1-8B,2024-07-23,2024-07-23,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,111.14,epoch_published
+Llama 3.2 90B,2024-09-24,2024-09-24,1,1,1,Meta AI,Open weights (restricted use),model_metadata,False,122.85,epoch_published
+Llama 3.3 70B,2024-12-06,2024-12-06,1,3,1,Meta AI,Open weights (restricted use),model_metadata,False,126.13,epoch_published
+Llama 4 Maverick,2025-04-06,2025-04-05,2,3,1,Meta AI,Open weights (restricted use),model_metadata,False,132.08,epoch_published
+Llama 4 Scout,2025-04-05,2025-04-05,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,127.68,epoch_published
+MPT-30B,2023-06-22,2023-06-22,1,2,1,MosaicML,Open weights (unrestricted),model_metadata,False,85.49,epoch_published
+MPT-7B,2023-05-05,2023-05-05,1,2,1,MosaicML,Open weights (unrestricted),model_metadata,False,73.72,epoch_published
+MiniMax-M3,2026-06-01,2026-06-01,1,2,1,MiniMax,Open weights (restricted use),model_metadata,False,147.74,epoch_published
+Mistral 7B v0.1,2023-09-27,2023-09-27,1,2,1,Mistral AI,Open weights (unrestricted),model_metadata,False,102.84,epoch_published
+Mistral Large,2024-02-26,2024-02-26,1,1,1,Mistral AI,API access,model_metadata,False,119.81,epoch_published
+Mistral Large 2 (Jul 2024),2024-07-24,2024-07-24,1,2,1,Mistral AI,Open weights (non-commercial),model_metadata,False,126.34,epoch_published
+Mistral Large 4,2026-10-29,2026-10-29,1,3,1,Mistral AI,Open weights (restricted use),model_metadata,False,154.62,epoch_published
+Mistral Large 4 Preview,2026-10-06,2026-10-06,1,3,1,Mistral AI,Open weights (restricted use),model_metadata,False,152.69,epoch_published
+Mistral Medium 3,2025-05-07,2025-05-07,1,1,1,Mistral AI,API access,model_metadata,False,132.81,epoch_published
+Mistral Medium 3.5,2026-04-28,2026-04-28,1,1,1,Mistral AI,Open weights (restricted use),model_metadata,False,141.59,epoch_published
+Mistral NeMo,2024-07-18,2024-07-18,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,113.88,epoch_published
+Mixtral 8x22B,2024-04-17,2024-04-17,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,118.69,epoch_published
+Mixtral 8x7B,2023-12-11,2023-12-11,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,113.22,epoch_published
+Muse Spark,2026-04-08,2026-04-08,1,1,1,Meta AI,API access,model_metadata,False,153.14,epoch_published
+Muse Spark 1.1,2026-07-09,2026-07-09,1,4,1,Meta AI,API access,model_metadata,False,154.87,epoch_published
+Muse Spark 1.2,2026-08-05,2026-08-05,1,2,1,Meta AI,API access,model_metadata,False,155.04,epoch_published
+Muse Spark 1.3,2026-09-02,2026-09-02,1,7,1,Meta AI,API access,model_metadata,False,158.24,epoch_published
+Muse Spark Open,2026-10-15,2026-10-15,1,5,1,Meta AI,Open weights (restricted use),model_metadata,False,155.42,epoch_published
+Muse Wonder,2026-10-12,2026-10-12,1,7,1,Meta AI,API access,model_metadata,False,161.68,epoch_published
+Nemotron 3 Ultra,2026-06-04,2026-06-04,1,1,1,Nvidia,Open weights (unrestricted),model_metadata,False,146.95,epoch_published
+Nemotron-4 15B,2024-02-26,2024-02-26,1,1,1,Nvidia,Unreleased,model_metadata,True,99.24,epoch_published
+PaLM 2-L,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,114.1,epoch_published
+PaLM 2-M,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,98.32,epoch_published
+PaLM 2-S,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,94.12,epoch_published
+Phi-1.5,2023-09-11,2023-09-11,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,68.7,epoch_published
+Phi-2,2023-12-12,2023-12-12,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,96.38,epoch_published
+Phi-4,2024-12-12,2024-12-12,1,2,1,Microsoft Research,Open weights (unrestricted),model_metadata,False,129.04,epoch_published
+QwQ-32B,2025-03-05,2025-03-05,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,136.48,epoch_published
+Qwen 3.5 Flash (hosted 35B-A3B),2026-02-25,2026-02-25,1,2,1,Alibaba,,model_metadata,False,143.81,epoch_published
+Qwen 3.5 Plus (hosted 397B-A17B),2026-02-16,2026-02-16,1,2,1,Alibaba,,model_metadata,False,147.29,epoch_published
+Qwen 3.6 35B-A3B,2026-04-14,2026-04-14,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,144.02,epoch_published
+Qwen 3.6 Flash,2026-04-27,2026-04-27,1,2,1,Alibaba,,model_metadata,False,143.65,epoch_published
+Qwen 3.6 Max (Preview),2026-04-20,2026-04-20,1,2,1,Alibaba,,model_metadata,False,149.83,epoch_published
+Qwen 3.6 Plus,2026-03-31,2026-03-31,1,2,1,Alibaba,API access,model_metadata,False,148.88,epoch_published
+Qwen 3.8 27B,2026-08-14,2026-08-14,1,5,1,Alibaba,Open weights (unrestricted),model_metadata,False,152.64,epoch_published
+Qwen 3.8 Max,2026-08-02,2026-08-02,1,2,1,Alibaba,API access,model_metadata,False,157.59,epoch_published
+Qwen-14B,2023-09-24,2023-09-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata,False,101.86,epoch_published
+Qwen-1_8B,2023-11-30,2023-11-30,1,1,0,unknown,,unknown,False,59.93,epoch_published
+Qwen-7B,2023-09-28,2023-09-28,1,1,1,Alibaba,Open weights (restricted use),model_metadata,False,89.22,epoch_published
+Qwen2-72B,2024-06-07,2024-06-07,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,122.3,epoch_published
+Qwen2.5-72B,2024-09-19,2024-09-19,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,127.18,epoch_published
+Qwen2.5-Coder (1.5B),2024-09-18,2024-09-18,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,89.31,epoch_published
+Qwen2.5-Coder (7B),2024-09-18,2024-09-18,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,107.7,epoch_published
+Qwen2.5-Coder-0.5B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,68.36,epoch_published
+Qwen2.5-Coder-14B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,113.92,epoch_published
+Qwen2.5-Coder-32B,2024-09-18,2024-09-18,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,118.94,epoch_published
+Qwen2.5-Coder-3B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,97.17,epoch_published
+Qwen2.5-Max,2025-01-25,2025-01-25,1,2,1,Alibaba,API access,model_metadata,False,131.15,epoch_published
+Qwen3-14B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,136.14,epoch_published
+Qwen3-235B-A22B,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.42,epoch_published
+Qwen3-235B-A22B-Instruct (Jul 2025),2025-07-25,2025-07-25,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.05,epoch_published
+Qwen3-235B-A22B-Thinking (Jul 2025),2025-07-25,2025-07-25,1,5,1,Alibaba,Open weights (unrestricted),model_metadata,False,143.21,epoch_published
+Qwen3-30B-A3B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,134.14,epoch_published
+Qwen3-30B-A3B-Instruct (Jul 2025),2025-07-29,2025-07-29,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,135.15,epoch_published
+Qwen3-30B-A3B-Thinking (Jul 2025),2025-07-30,2025-07-30,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.35,epoch_published
+Qwen3-32B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,136.89,epoch_published
+Qwen3-8B,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,132.09,epoch_published
+Qwen3-Max,2025-09-24,2025-09-24,1,1,1,Alibaba,API access,model_metadata,False,142.57,epoch_published
+Qwen3.5 397B-A17B,2026-02-13,2026-02-13,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,147.9,epoch_published
+Qwen3.5-35B-A3B,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,143.98,epoch_published
+Qwen3.5-9B,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata,False,139.32,epoch_published
+Qwen3.6 27B,2026-04-22,2026-04-22,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,146.73,epoch_published
+Qwen3.7-Max,2026-05-19,2026-05-19,1,2,1,Alibaba,API access,model_metadata,False,154.54,epoch_published
+Qwen3.7-Plus,2026-06-02,2026-06-02,1,2,1,Alibaba,API access,model_metadata,False,147.87,epoch_published
+Qwen3.8 Max (0902),2026-09-01,2026-09-01,1,2,1,Alibaba,API access,model_metadata,False,155.97,epoch_published
+RedPajama-INCITE-7B-Base,2023-05-04,2023-05-04,1,1,0,unknown,,unknown,False,58.01,epoch_published
+Stable Beluga 2,2023-07-20,2023-07-20,1,1,1,Stability AI,Open weights (non-commercial),model_metadata,False,109.53,epoch_published
+StarCoder 2 15B,2024-02-20,2024-02-20,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,96.31,epoch_published
+StarCoder 2 3B,2024-02-22,2024-02-22,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,66.94,epoch_published
+StarCoder 2 7B,2024-02-20,2024-02-20,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,72.65,epoch_published
+XGen-7B,2023-06-27,2023-06-27,1,1,1,Salesforce,Open weights (unrestricted),model_metadata,False,70.59,epoch_published
+Yi 6B,2023-11-22,2023-11-02,2,2,1,01.AI,Open weights (restricted use),model_metadata,False,94.43,epoch_published
+Yi-9B,2024-03-01,2024-03-01,1,1,0,unknown,,unknown,False,102.31,epoch_published
+chatglm2-6b,2023-06-24,2023-06-24,1,1,0,unknown,,unknown,False,73.99,epoch_published
+gpt-oss-120b,2025-08-05,2025-08-05,1,9,1,OpenAI,Open weights (unrestricted),model_metadata,False,140.16,epoch_published
+gpt-oss-20b,2025-08-05,2025-08-05,1,5,1,OpenAI,Open weights (unrestricted),model_metadata,False,134.97,epoch_published
+internlm-20b,2023-09-18,2023-09-18,1,1,0,unknown,,unknown,False,99.09,epoch_published
+internlm-7b,2023-07-05,2023-07-05,1,1,0,unknown,,unknown,False,84.84,epoch_published
+o1,2024-12-17,2024-12-17,1,4,1,OpenAI,API access,model_metadata,False,141.16,epoch_published
+o1-mini,2024-09-12,2024-09-12,1,4,1,OpenAI,API access,model_metadata,False,135.3,epoch_published
+o1-preview,2024-09-12,2024-09-12,1,1,1,OpenAI,API access,model_metadata,False,133.84,epoch_published
+o3,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata,False,147.05,epoch_published
+o3-mini,2025-01-31,2025-01-31,1,4,1,OpenAI,API access,model_metadata,False,140.61,epoch_published
+o3-pro,2025-06-10,2025-06-10,1,4,1,OpenAI,API access,model_metadata,False,147.46,epoch_published
+o4-mini,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata,False,145.25,epoch_published
+open_llama_7b,2023-06-07,2023-06-07,1,1,0,unknown,,unknown,False,64.42,epoch_published
+phi-3-medium 14B,2024-04-23,2024-04-23,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,114.35,epoch_published
+phi-3-mini 3.8B,2024-04-23,2024-04-23,1,2,1,Microsoft,Open weights (unrestricted),model_metadata,False,110.63,epoch_published
+phi-3-small 7.4B,2024-04-23,2024-04-23,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,116.45,epoch_published
+vicuna-13b-v1.1,2023-04-12,2023-04-12,1,1,0,unknown,,unknown,False,76.4,epoch_published
+Baichuan 2-7B,2023-09-20,2023-09-20,1,1,1,Baichuan,Open weights (restricted use),model_metadata,False,82.86108402453752,bayes_refit
+Baichuan2-13B,2023-09-06,2023-09-06,1,1,1,Baichuan,Open weights (restricted use),model_metadata,False,91.19515234936128,bayes_refit
+Beam 1.0,2026-10-05,2026-10-05,1,6,1,Reflection,Open weights (unrestricted),model_metadata,False,150.907294333568,bayes_refit
+Cerebras-GPT-13B,2023-03-20,2023-03-20,1,1,1,Cerebras Systems,Open weights (unrestricted),model_metadata,False,47.698035114805684,bayes_refit
+Claude 2,2023-07-11,2023-07-11,1,1,1,Anthropic,API access,model_metadata,False,117.07760852743164,bayes_refit
+Claude 3 Haiku,2024-03-07,2024-03-07,1,1,1,Anthropic,API access,model_metadata,False,117.71252958501469,bayes_refit
+Claude 3 Opus,2024-02-29,2024-02-29,1,1,1,Anthropic,API access,model_metadata,False,125.51577758109572,bayes_refit
+Claude 3 Sonnet,2024-02-29,2024-02-29,1,1,1,Anthropic,API access,model_metadata,False,119.57530255056302,bayes_refit
+Claude 3.5 Haiku,2024-10-22,2024-10-22,1,1,1,Anthropic,API access,model_metadata,False,124.71868110027722,bayes_refit
+Claude 3.5 Sonnet,2024-06-20,2024-06-20,1,1,1,Anthropic,API access,model_metadata,False,130.0,bayes_refit
+Claude 3.5 Sonnet (October 2024),2024-10-22,2024-10-22,1,1,1,Anthropic,API access,model_metadata,False,133.32446956657742,bayes_refit
+Claude 3.7 Sonnet,2025-02-24,2025-02-24,1,10,1,Anthropic,API access,model_metadata,False,141.04886944836156,bayes_refit
+Claude Fable 5,2026-06-09,2026-06-09,1,8,1,Anthropic,API access,model_metadata,False,164.33068141530296,bayes_refit
+Claude Fable 5.1,2026-09-01,2026-09-01,1,6,1,Anthropic,API access,model_metadata,False,167.11287251857314,bayes_refit
+Claude Fable 5.2,2026-11-09,2026-11-09,1,7,1,Anthropic,API access,model_metadata,False,173.6745997537919,bayes_refit
+Claude Haiku 4.5,2025-10-15,2025-10-15,1,8,1,Anthropic,API access,model_metadata,False,142.72011460240256,bayes_refit
+Claude Haiku 5.5,2026-10-07,2026-10-07,1,7,1,Anthropic,API access,model_metadata,False,160.45389150374436,bayes_refit
+Claude Instant,2023-08-09,2023-08-09,1,2,1,Anthropic,API access,model_metadata,False,113.77031340941522,bayes_refit
+Claude Opus 4,2025-05-22,2025-05-22,1,9,1,Anthropic,API access,model_metadata,False,142.84945023678168,bayes_refit
+Claude Opus 4.1,2025-08-05,2025-08-05,1,6,1,Anthropic,API access,model_metadata,False,144.76999035459028,bayes_refit
+Claude Opus 4.5,2025-11-24,2025-11-24,1,11,1,Anthropic,API access,model_metadata,False,151.8978130522816,bayes_refit
+Claude Opus 4.6,2026-02-05,2026-02-05,1,9,1,Anthropic,API access,model_metadata,False,156.36424716009867,bayes_refit
+Claude Opus 4.7,2026-04-16,2026-04-16,1,7,1,Anthropic,API access,model_metadata,False,157.44853826863007,bayes_refit
+Claude Opus 4.8,2026-05-28,2026-05-28,1,8,1,Anthropic,API access,model_metadata,False,159.976624411095,bayes_refit
+Claude Opus 5,2026-07-24,2026-07-24,1,7,1,Anthropic,API access,model_metadata,False,164.77565752467632,bayes_refit
+Claude Opus 5.5,2026-09-22,2026-09-22,1,7,1,Anthropic,API access,model_metadata,False,168.70061664673912,bayes_refit
+Claude Sonnet 4,2025-05-22,2025-05-22,1,12,1,Anthropic,API access,model_metadata,False,141.83942199562497,bayes_refit
+Claude Sonnet 4.5,2025-09-29,2025-09-29,1,12,1,Anthropic,API access,model_metadata,False,147.59935082057856,bayes_refit
+Claude Sonnet 4.6,2026-02-17,2026-02-17,1,9,1,Anthropic,API access,model_metadata,False,152.8476516575631,bayes_refit
+Claude Sonnet 5,2026-06-30,2026-06-30,1,8,1,Anthropic,API access,model_metadata,False,156.94126036340296,bayes_refit
+Claude Sonnet 5.5,2026-09-28,2026-09-28,1,6,1,Anthropic,API access,model_metadata,False,166.66787662850496,bayes_refit
+CodeQwen1.5-7B,2024-04-15,2024-04-15,1,1,0,unknown,,unknown,False,73.98355350319747,bayes_refit
+DeepSeek Coder 33B,2023-11-02,2023-11-02,1,2,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata,False,75.45325532950538,bayes_refit
+DeepSeek Coder 6.7B,2024-01-25,2023-11-02,2,3,1,"DeepSeek,Peking University",Open weights (restricted use),model_metadata,False,66.49650426668214,bayes_refit
+DeepSeek V4 Flash 0731,2026-07-31,2026-07-31,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,154.41219510737378,bayes_refit
+DeepSeek V4 Pro 0813,2026-08-13,2026-08-13,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,155.97150575263126,bayes_refit
+DeepSeek V4.1 Flash,2026-09-09,2026-09-09,1,5,1,DeepSeek,Open weights (unrestricted),model_metadata,False,156.68477886582127,bayes_refit
+DeepSeek V4.1 Flash 1017,2026-10-17,2026-10-17,1,6,1,DeepSeek,Open weights (unrestricted),model_metadata,False,159.44517577288846,bayes_refit
+DeepSeek-Coder-V2-Lite-Base,2024-06-13,2024-06-13,1,1,0,unknown,,unknown,False,99.01813280410695,bayes_refit
+DeepSeek-R1,2025-01-20,2025-01-20,1,1,1,DeepSeek,Open weights (unrestricted),model_metadata,False,138.56066721190865,bayes_refit
+DeepSeek-R1 (May 2025),2025-05-28,2025-05-28,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata,False,140.69573162369107,bayes_refit
+"DeepSeek-V2 (MoE-236B, May 2024)",2024-05-07,2024-05-07,1,1,1,DeepSeek,Open weights (restricted use),model_metadata,False,120.67326905962135,bayes_refit
+DeepSeek-V3,2024-12-26,2024-12-26,1,2,1,DeepSeek,Open weights (restricted use),model_metadata,False,131.62788996262825,bayes_refit
+DeepSeek-V3 (Mar 2025),2025-03-24,2025-03-24,1,2,1,DeepSeek,Open weights (restricted use),model_metadata,False,135.241221126563,bayes_refit
+DeepSeek-V3.1,2025-08-21,2025-08-21,1,2,1,DeepSeek,Open weights (unrestricted),model_metadata,False,140.86968632635262,bayes_refit
+DeepSeek-V3.2,2025-12-01,2025-12-01,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,146.2362770007297,bayes_refit
+DeepSeek-V3.2-Exp,2025-09-29,2025-09-29,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,144.39226726905906,bayes_refit
+DeepSeek-V4-Flash,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,146.8406056748627,bayes_refit
+DeepSeek-V4-Pro,2026-04-24,2026-04-24,1,4,1,DeepSeek,Open weights (unrestricted),model_metadata,False,150.21477840898328,bayes_refit
+Dolly 2.0-12b,2023-04-11,2023-04-11,1,1,1,Databricks,Open weights (unrestricted),model_metadata,False,54.30846931747501,bayes_refit
+Falcon 2 11B,2024-05-09,2024-05-09,1,1,1,Technology Innovation Institute,Open weights (restricted use),model_metadata,False,98.67563700968027,bayes_refit
+Falcon-180B,2023-09-06,2023-09-06,1,1,1,Technology Innovation Institute,Open weights (restricted use),model_metadata,False,106.65080726684769,bayes_refit
+Falcon-40B,2023-05-25,2023-03-15,2,2,1,Technology Innovation Institute,Open weights (unrestricted),model_metadata,False,90.06451012093652,bayes_refit
+Falcon-7B,2023-04-24,2023-04-24,1,1,1,Technology Innovation Institute,Open weights (unrestricted),model_metadata,False,72.17229594423891,bayes_refit
+GLM-4.7,2025-12-22,2025-12-22,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,143.33808834028113,bayes_refit
+GLM-5,2026-02-11,2026-02-11,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,146.5163029908088,bayes_refit
+GLM-5.1,2026-04-07,2026-04-07,1,2,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,150.74752555777746,bayes_refit
+GLM-5.2,2026-06-16,2026-06-16,1,7,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,153.08346612011266,bayes_refit
+GLM-5.3,2026-08-14,2026-08-14,1,4,1,Z.ai (Zhipu AI),Open weights (restricted use),model_metadata,False,157.11361080101554,bayes_refit
+GLM-5.3-Flash,2026-08-20,2026-08-20,1,4,1,Z.ai (Zhipu AI),Open weights (unrestricted),model_metadata,False,153.816998628902,bayes_refit
+GPT-3.5 Turbo (Jan 2024),2024-01-25,2024-01-25,1,1,1,OpenAI,API access,model_metadata,False,112.67881330553332,bayes_refit
+GPT-3.5 Turbo (Jun 2023),2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata,False,105.47012593382108,bayes_refit
+GPT-3.5 Turbo (Nov 2023),2023-11-06,2023-11-06,1,1,1,OpenAI,API access,model_metadata,False,112.43993235458098,bayes_refit
+GPT-4 (Jun 2023),2023-06-13,2023-06-13,1,2,1,OpenAI,API access,model_metadata,False,119.74515574990437,bayes_refit
+GPT-4 (Mar 2023),2023-03-14,2023-03-14,1,2,1,OpenAI,API access,model_metadata,False,121.53451093501495,bayes_refit
+GPT-4 Turbo (Apr 2024),2024-04-09,2024-04-09,1,1,1,OpenAI,API access,model_metadata,False,125.78016509203547,bayes_refit
+GPT-4 Turbo (Nov 2023),2024-01-25,2023-11-06,2,3,1,OpenAI,API access,model_metadata,False,124.69292403806315,bayes_refit
+GPT-4.1,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,136.1286580706628,bayes_refit
+GPT-4.1 mini,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,134.22133960220182,bayes_refit
+GPT-4.1 nano,2025-04-14,2025-04-14,1,1,1,OpenAI,API access,model_metadata,False,126.7419345205895,bayes_refit
+GPT-4.5,2025-02-27,2025-02-27,1,1,1,OpenAI,API access,model_metadata,False,136.46987041490934,bayes_refit
+GPT-4o (Aug 2024),2024-08-06,2024-08-06,1,1,1,OpenAI,API access,model_metadata,False,127.05403335423692,bayes_refit
+GPT-4o (May 2024),2024-05-13,2024-05-13,1,1,1,OpenAI,API access,model_metadata,False,128.0906160567842,bayes_refit
+GPT-4o (Nov 2024),2024-11-20,2024-11-20,1,2,1,OpenAI,API access,model_metadata,False,128.7393985840676,bayes_refit
+GPT-4o mini,2024-07-18,2024-07-18,1,1,1,OpenAI,API access,model_metadata,False,123.65479029350128,bayes_refit
+GPT-5,2025-08-07,2025-08-07,1,6,1,OpenAI,API access,model_metadata,False,150.0,bayes_refit
+GPT-5 Pro,2025-10-07,2025-10-07,1,3,1,OpenAI,API access,model_metadata,False,151.24049006592466,bayes_refit
+GPT-5 mini,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata,False,145.99885000216366,bayes_refit
+GPT-5 nano,2025-08-07,2025-08-07,1,5,1,OpenAI,API access,model_metadata,False,139.01965185241716,bayes_refit
+GPT-5.1,2025-11-13,2025-11-13,1,5,1,OpenAI,API access,model_metadata,False,150.93535299314328,bayes_refit
+GPT-5.2,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata,False,154.50214848369086,bayes_refit
+GPT-5.2 Pro,2025-12-11,2025-12-11,1,8,1,OpenAI,API access,model_metadata,False,157.29224558209737,bayes_refit
+GPT-5.4,2026-03-05,2026-03-05,1,6,1,OpenAI,API access,model_metadata,False,157.88059018735171,bayes_refit
+GPT-5.4 Mini,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata,False,149.34616920085816,bayes_refit
+GPT-5.4 Nano,2026-03-17,2026-03-17,1,6,1,OpenAI,API access,model_metadata,False,146.30162881820203,bayes_refit
+GPT-5.4 Pro,2026-03-05,2026-03-05,1,4,1,OpenAI,API access,model_metadata,False,160.3151925276839,bayes_refit
+GPT-5.5,2026-04-23,2026-04-23,1,7,1,OpenAI,API access,model_metadata,False,160.16688902852727,bayes_refit
+GPT-5.5 Pro,2026-04-23,2026-04-23,1,5,1,OpenAI,API access,model_metadata,False,162.76483000284878,bayes_refit
+GPT-5.6 Luna,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata,False,156.70733178101426,bayes_refit
+GPT-5.6 Sol,2026-07-09,2026-07-09,1,10,1,OpenAI,API access,model_metadata,False,163.06092023777873,bayes_refit
+GPT-5.6 Terra,2026-07-09,2026-07-09,1,7,1,OpenAI,API access,model_metadata,False,160.77546808737563,bayes_refit
+GPT-6 Astra,2026-09-03,2026-09-03,1,8,1,OpenAI,API access,model_metadata,False,169.15015445983798,bayes_refit
+GPT-6 Luna,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata,False,156.4186612585519,bayes_refit
+GPT-6 Sol,2026-09-22,2026-09-22,1,7,1,OpenAI,API access,model_metadata,False,163.83247284609007,bayes_refit
+GPT-6.1 Sol,2026-09-29,2026-09-29,1,6,1,OpenAI,API access,model_metadata,False,168.61895481117705,bayes_refit
+GPT-6.1 Terra,2026-10-26,2026-10-26,1,7,1,OpenAI,API access,model_metadata,False,167.78729119004407,bayes_refit
+Gemini 1.5 Flash (May 2024),2024-05-23,2024-05-14,2,2,1,Google DeepMind,API access,model_metadata,False,120.49892960242863,bayes_refit
+Gemini 1.5 Flash (Sep 2024),2024-09-24,2024-08-27,2,2,1,Google DeepMind,API access,model_metadata,False,126.93652059568034,bayes_refit
+Gemini 1.5 Pro (May 2024),2024-05-14,2024-05-14,1,1,1,Google DeepMind,API access,model_metadata,False,125.34076386138481,bayes_refit
+Gemini 1.5 Pro (Sept 2024),2024-09-24,2024-09-24,1,1,1,Google DeepMind,API access,model_metadata,False,130.42058614237556,bayes_refit
+Gemini 2.0 Flash (Feb 2025),2025-02-05,2025-02-05,1,2,1,"Google DeepMind,Google",API access,model_metadata,False,133.96862580363134,bayes_refit
+Gemini 2.0 Flash Thinking (Jan 2025),2025-01-21,2025-01-21,1,2,1,"Google DeepMind,Google",API access,model_metadata,False,133.54678695253978,bayes_refit
+Gemini 2.0 Pro,2025-02-05,2025-02-05,1,1,1,Google DeepMind,Hosted access (no API),model_metadata,False,135.33513444198508,bayes_refit
+Gemini 2.5 Flash (Apr 2025),2025-04-17,2025-04-17,1,3,1,Google DeepMind,API access,model_metadata,False,140.68544252136883,bayes_refit
+Gemini 2.5 Flash (Jun 2025),2025-06-17,2025-06-17,1,1,1,Google DeepMind,API access,model_metadata,False,140.78987241590892,bayes_refit
+Gemini 2.5 Flash (May 2025),2025-05-20,2025-05-20,1,5,1,Google DeepMind,API access,model_metadata,False,141.53733580554913,bayes_refit
+Gemini 2.5 Flash (Sep 2025),2025-09-25,2025-09-25,1,2,1,Google DeepMind,API access,model_metadata,False,141.87735485096277,bayes_refit
+Gemini 2.5 Flash-Lite (Jun 2025),2025-06-17,2025-06-17,1,2,1,Google DeepMind,API access,model_metadata,False,132.99199478854308,bayes_refit
+Gemini 2.5 Pro (Jun 2025),2025-06-05,2025-06-05,1,7,1,Google DeepMind,API access,model_metadata,False,144.89032440240265,bayes_refit
+Gemini 2.5 Pro (Mar 2025),2025-03-31,2025-03-25,2,2,1,Google DeepMind,API access,model_metadata,False,144.00799183462993,bayes_refit
+Gemini 2.5 Pro (May 2025),2025-05-06,2025-05-06,1,1,1,Google DeepMind,API access,model_metadata,False,140.61014696047695,bayes_refit
+Gemini 3 Flash,2025-12-17,2025-12-17,1,4,1,Google DeepMind,API access,model_metadata,False,152.33349174411723,bayes_refit
+Gemini 3 Pro,2025-11-18,2025-11-18,1,2,1,Google DeepMind,API access,model_metadata,False,153.0079731211043,bayes_refit
+Gemini 3.1 Flash-Lite,2026-03-03,2026-03-03,1,4,1,Google,API access,model_metadata,False,144.9943919824355,bayes_refit
+Gemini 3.1 Pro,2026-02-19,2026-02-19,1,5,1,Google DeepMind,API access,model_metadata,False,156.22306853889933,bayes_refit
+Gemini 3.5 Flash,2026-05-19,2026-05-19,1,5,1,Google DeepMind,API access,model_metadata,False,155.3110478857511,bayes_refit
+Gemini 3.5 Flash-Lite,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata,False,145.60149031655126,bayes_refit
+Gemini 3.6 Flash,2026-07-21,2026-07-21,1,5,1,Google DeepMind,API access,model_metadata,False,155.26151746746322,bayes_refit
+Gemini 3.7 Flash,2026-08-13,2026-08-13,1,4,1,Google DeepMind,API access,model_metadata,False,158.4162502637875,bayes_refit
+Gemini 3.8 Flash,2026-09-02,2026-09-02,1,4,1,Google DeepMind,API access,model_metadata,False,158.8569094122951,bayes_refit
+Gemini 4 Argon,2026-10-13,2026-10-13,1,5,1,Google DeepMind,API access,model_metadata,False,166.59529643066904,bayes_refit
+Gemini 4 Carbon,2026-11-10,2026-11-10,1,4,1,Google DeepMind,API access,model_metadata,False,169.94317867026945,bayes_refit
+Gemma 2 27B,2024-06-27,2024-06-24,2,3,1,Google DeepMind,Open weights (restricted use),model_metadata,False,118.56252307859907,bayes_refit
+Gemma 2 9B,2024-06-24,2024-06-24,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,112.19342134880118,bayes_refit
+Gemma 2B,2024-02-21,2024-02-21,1,1,1,Google DeepMind,Open weights (restricted use),model_metadata,False,74.81668369874575,bayes_refit
+Gemma 3 27B,2025-03-12,2025-03-11,2,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,127.46206573639401,bayes_refit
+Gemma 4 26B A4B,2026-04-02,2026-04-02,1,3,1,Google DeepMind,Open weights (unrestricted),model_metadata,False,141.527381844551,bayes_refit
+Gemma 4 31B IT,2026-04-02,2026-04-02,1,2,1,Google DeepMind,Open weights (restricted use),model_metadata,False,144.10978372899643,bayes_refit
+Gemma 7B,2024-02-21,2024-02-21,1,1,1,Google DeepMind,Open weights (restricted use),model_metadata,False,102.7003059542048,bayes_refit
+Grok 3,2025-04-09,2025-04-09,1,2,1,xAI,API access,model_metadata,False,137.5580879968848,bayes_refit
+Grok 4,2025-07-09,2025-07-09,1,2,1,xAI,API access,model_metadata,False,146.93200713908945,bayes_refit
+Grok 4 Fast,2025-09-19,2025-09-19,1,1,1,xAI,API access,model_metadata,False,144.29628741009492,bayes_refit
+Grok 4.20,2026-02-17,2026-02-17,1,2,1,xAI,API access,model_metadata,False,152.26605840627897,bayes_refit
+Grok 4.3 Beta,2026-04-17,2026-04-17,1,4,1,xAI,Hosted access (no API),model_metadata,False,149.9288862630473,bayes_refit
+Grok 4.5,2026-07-08,2026-07-08,1,4,1,xAI,API access,model_metadata,False,155.01734618223443,bayes_refit
+Grok 4.6,2026-08-12,2026-08-12,1,5,1,xAI,API access,model_metadata,False,157.86382449293492,bayes_refit
+Grok 4.7,2026-09-21,2026-09-21,1,5,1,xAI,API access,model_metadata,False,156.21422914334025,bayes_refit
+Grok-2 (Dec 2024),2024-12-12,2024-12-12,1,2,1,xAI,API access,model_metadata,False,129.69517164838553,bayes_refit
+Grok-3 mini,2025-06-24,2025-04-09,2,7,1,xAI,API access,model_metadata,False,139.89906594630065,bayes_refit
+INTELLECT-1,2024-11-29,2024-11-29,1,1,1,"Prime Intellect,Hugging Face,Arcee AI",,model_metadata,False,82.54410338180237,bayes_refit
+Inkling,2026-07-15,2026-07-15,1,3,1,Thinking Machines,Open weights (unrestricted),model_metadata,False,148.37417689369812,bayes_refit
+Inkling-Small,2026-07-15,2026-07-15,1,7,1,Thinking Machines,Open weights (unrestricted),model_metadata,False,150.7403762650031,bayes_refit
+Kimi K2 (Jul 2025),2025-07-12,2025-07-12,1,2,1,Moonshot,Open weights (restricted use),model_metadata,False,141.19548864765983,bayes_refit
+Kimi K2 Thinking,2025-11-06,2025-11-06,1,5,1,Moonshot,Open weights (restricted use),model_metadata,False,145.46081571495816,bayes_refit
+Kimi K2.5,2026-01-27,2026-01-27,1,3,1,Moonshot,Open weights (unrestricted),model_metadata,False,148.7983747066465,bayes_refit
+Kimi K2.6,2026-04-20,2026-04-20,1,2,1,Moonshot,Open weights (unrestricted),model_metadata,False,151.6068023036599,bayes_refit
+Kimi K2.7 Code,2026-06-12,2026-06-12,1,1,1,Moonshot,Open weights (unrestricted),model_metadata,False,151.11066292753458,bayes_refit
+Kimi K3,2026-07-16,2026-07-16,1,4,1,Moonshot,Open weights (non-commercial),model_metadata,False,158.62554309228378,bayes_refit
+Kimi K3.1 Pro,2026-10-23,2026-10-23,1,8,1,Moonshot,Open weights (restricted use),model_metadata,False,161.4292044455428,bayes_refit
+LLaMA-13B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,84.56608165628457,bayes_refit
+LLaMA-33B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,95.96479358137988,bayes_refit
+LLaMA-65B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,101.11781360406687,bayes_refit
+LLaMA-7B,2023-02-24,2023-02-24,1,1,1,Meta AI,Open weights (non-commercial),model_metadata,False,76.45937482439682,bayes_refit
+Llama 2-13B,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,96.011824258388,bayes_refit
+Llama 2-34B,2023-07-18,2023-07-18,1,1,1,Meta AI,Unreleased,model_metadata,True,93.3055829558721,bayes_refit
+Llama 2-70B,2023-07-18,2023-07-18,1,4,1,Meta AI,Open weights (restricted use),model_metadata,False,105.41827288635096,bayes_refit
+Llama 2-7B,2023-07-18,2023-07-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,82.3760453579398,bayes_refit
+Llama 3-70B,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,121.30556658602568,bayes_refit
+Llama 3-8B,2024-04-18,2024-04-18,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,108.8862451545039,bayes_refit
+Llama 3.1-405B,2024-07-23,2024-07-23,1,3,1,Meta AI,Open weights (restricted use),model_metadata,False,127.83426757091321,bayes_refit
+Llama 3.1-70B,2024-07-23,2024-07-23,1,1,1,Meta AI,Open weights (restricted use),model_metadata,False,124.6969151901246,bayes_refit
+Llama 3.1-8B,2024-07-23,2024-07-23,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,110.75711820183012,bayes_refit
+Llama 3.2 90B,2024-09-24,2024-09-24,1,1,1,Meta AI,Open weights (restricted use),model_metadata,False,122.82663521238766,bayes_refit
+Llama 3.3 70B,2024-12-06,2024-12-06,1,3,1,Meta AI,Open weights (restricted use),model_metadata,False,126.11933345577015,bayes_refit
+Llama 4 Maverick,2025-04-06,2025-04-05,2,3,1,Meta AI,Open weights (restricted use),model_metadata,False,132.18518986281637,bayes_refit
+Llama 4 Scout,2025-04-05,2025-04-05,1,2,1,Meta AI,Open weights (restricted use),model_metadata,False,127.70802346026704,bayes_refit
+MPT-30B,2023-06-22,2023-06-22,1,2,1,MosaicML,Open weights (unrestricted),model_metadata,False,84.48914711571125,bayes_refit
+MPT-7B,2023-05-05,2023-05-05,1,2,1,MosaicML,Open weights (unrestricted),model_metadata,False,72.56110074782524,bayes_refit
+MiniMax-M3,2026-06-01,2026-06-01,1,2,1,MiniMax,Open weights (restricted use),model_metadata,False,147.91469644653873,bayes_refit
+Mistral 7B v0.1,2023-09-27,2023-09-27,1,2,1,Mistral AI,Open weights (unrestricted),model_metadata,False,102.30187934108385,bayes_refit
+Mistral Large,2024-02-26,2024-02-26,1,1,1,Mistral AI,API access,model_metadata,False,119.84626917958492,bayes_refit
+Mistral Large 2 (Jul 2024),2024-07-24,2024-07-24,1,2,1,Mistral AI,Open weights (non-commercial),model_metadata,False,126.37783756149216,bayes_refit
+Mistral Large 4,2026-10-29,2026-10-29,1,3,1,Mistral AI,Open weights (restricted use),model_metadata,False,154.5463206035507,bayes_refit
+Mistral Large 4 Preview,2026-10-06,2026-10-06,1,3,1,Mistral AI,Open weights (restricted use),model_metadata,False,152.64760573950997,bayes_refit
+Mistral Medium 3,2025-05-07,2025-05-07,1,1,1,Mistral AI,API access,model_metadata,False,132.74663956410063,bayes_refit
+Mistral Medium 3.5,2026-04-28,2026-04-28,1,1,1,Mistral AI,Open weights (restricted use),model_metadata,False,141.55247844583064,bayes_refit
+Mistral NeMo,2024-07-18,2024-07-18,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,113.66387774757739,bayes_refit
+Mixtral 8x22B,2024-04-17,2024-04-17,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,118.57253134624337,bayes_refit
+Mixtral 8x7B,2023-12-11,2023-12-11,1,3,1,Mistral AI,Open weights (unrestricted),model_metadata,False,113.03101635481303,bayes_refit
+Muse Spark,2026-04-08,2026-04-08,1,1,1,Meta AI,API access,model_metadata,False,153.13757905524957,bayes_refit
+Muse Spark 1.1,2026-07-09,2026-07-09,1,4,1,Meta AI,API access,model_metadata,False,154.85374294975404,bayes_refit
+Muse Spark 1.2,2026-08-05,2026-08-05,1,2,1,Meta AI,API access,model_metadata,False,155.06966950154435,bayes_refit
+Muse Spark 1.3,2026-09-02,2026-09-02,1,7,1,Meta AI,API access,model_metadata,False,158.29763824538222,bayes_refit
+Muse Spark Open,2026-10-15,2026-10-15,1,5,1,Meta AI,Open weights (restricted use),model_metadata,False,155.39277341532858,bayes_refit
+Muse Wonder,2026-10-12,2026-10-12,1,7,1,Meta AI,API access,model_metadata,False,161.77482345846792,bayes_refit
+Nemotron 3 Ultra,2026-06-04,2026-06-04,1,1,1,Nvidia,Open weights (unrestricted),model_metadata,False,146.9716442210116,bayes_refit
+Nemotron-4 15B,2024-02-26,2024-02-26,1,1,1,Nvidia,Unreleased,model_metadata,True,98.63789546565822,bayes_refit
+PaLM 2-L,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,113.6956276338349,bayes_refit
+PaLM 2-M,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,97.53496498177802,bayes_refit
+PaLM 2-S,2023-05-17,2023-05-17,1,1,0,unknown,,unknown,False,93.28811452422032,bayes_refit
+Phi-1.5,2023-09-11,2023-09-11,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,67.47309302180605,bayes_refit
+Phi-2,2023-12-12,2023-12-12,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,95.66953716104555,bayes_refit
+Phi-4,2024-12-12,2024-12-12,1,2,1,Microsoft Research,Open weights (unrestricted),model_metadata,False,129.1912718005584,bayes_refit
+QwQ-32B,2025-03-05,2025-03-05,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,136.40490801138583,bayes_refit
+Qwen 3.5 Flash (hosted 35B-A3B),2026-02-25,2026-02-25,1,2,1,Alibaba,,model_metadata,False,143.80891503000828,bayes_refit
+Qwen 3.5 Plus (hosted 397B-A17B),2026-02-16,2026-02-16,1,2,1,Alibaba,,model_metadata,False,147.255906466205,bayes_refit
+Qwen 3.6 35B-A3B,2026-04-14,2026-04-14,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,144.07200328669737,bayes_refit
+Qwen 3.6 Flash,2026-04-27,2026-04-27,1,2,1,Alibaba,,model_metadata,False,143.71511801181614,bayes_refit
+Qwen 3.6 Max (Preview),2026-04-20,2026-04-20,1,2,1,Alibaba,,model_metadata,False,149.8415016773988,bayes_refit
+Qwen 3.6 Plus,2026-03-31,2026-03-31,1,2,1,Alibaba,API access,model_metadata,False,148.91586256853432,bayes_refit
+Qwen 3.8 27B,2026-08-14,2026-08-14,1,5,1,Alibaba,Open weights (unrestricted),model_metadata,False,152.64528344068287,bayes_refit
+Qwen 3.8 Max,2026-08-02,2026-08-02,1,2,1,Alibaba,API access,model_metadata,False,157.61491979045394,bayes_refit
+Qwen-14B,2023-09-24,2023-09-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata,False,101.32839203008115,bayes_refit
+Qwen-1_8B,2023-11-30,2023-11-30,1,1,0,unknown,,unknown,False,58.418018173452396,bayes_refit
+Qwen-7B,2023-09-28,2023-09-28,1,1,1,Alibaba,Open weights (restricted use),model_metadata,False,88.34018918909057,bayes_refit
+Qwen2-72B,2024-06-07,2024-06-07,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,122.25901669063693,bayes_refit
+Qwen2.5-72B,2024-09-19,2024-09-19,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,127.16094828580731,bayes_refit
+Qwen2.5-Coder (1.5B),2024-09-18,2024-09-18,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,88.46025270954172,bayes_refit
+Qwen2.5-Coder (7B),2024-09-18,2024-09-18,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,107.15344909039477,bayes_refit
+Qwen2.5-Coder-0.5B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,67.07079720358497,bayes_refit
+Qwen2.5-Coder-14B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,113.55872660893954,bayes_refit
+Qwen2.5-Coder-32B,2024-09-18,2024-09-18,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,118.57850531450231,bayes_refit
+Qwen2.5-Coder-3B,2024-09-18,2024-09-18,1,1,0,unknown,,unknown,False,96.1414494223297,bayes_refit
+Qwen2.5-Max,2025-01-25,2025-01-25,1,2,1,Alibaba,API access,model_metadata,False,131.10593063869732,bayes_refit
+Qwen3-14B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,135.99746880579872,bayes_refit
+Qwen3-235B-A22B,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.39875981672023,bayes_refit
+Qwen3-235B-A22B-Instruct (Jul 2025),2025-07-25,2025-07-25,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.02084522564962,bayes_refit
+Qwen3-235B-A22B-Thinking (Jul 2025),2025-07-25,2025-07-25,1,5,1,Alibaba,Open weights (unrestricted),model_metadata,False,143.21782609127047,bayes_refit
+Qwen3-30B-A3B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,134.1189865867049,bayes_refit
+Qwen3-30B-A3B-Instruct (Jul 2025),2025-07-29,2025-07-29,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,134.77260015060156,bayes_refit
+Qwen3-30B-A3B-Thinking (Jul 2025),2025-07-30,2025-07-30,1,1,1,Alibaba,Open weights (unrestricted),model_metadata,False,138.3041234715439,bayes_refit
+Qwen3-32B,2025-04-29,2025-04-28,2,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,136.79351899739189,bayes_refit
+Qwen3-8B,2025-04-28,2025-04-28,1,3,1,Alibaba,Open weights (unrestricted),model_metadata,False,131.96237430785047,bayes_refit
+Qwen3-Max,2025-09-24,2025-09-24,1,1,1,Alibaba,API access,model_metadata,False,142.3716961264484,bayes_refit
+Qwen3.5 397B-A17B,2026-02-13,2026-02-13,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,147.92284962198312,bayes_refit
+Qwen3.5-35B-A3B,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,144.0854095797754,bayes_refit
+Qwen3.5-9B,2026-02-24,2026-02-24,1,2,1,Alibaba,Open weights (restricted use),model_metadata,False,139.46565622278672,bayes_refit
+Qwen3.6 27B,2026-04-22,2026-04-22,1,2,1,Alibaba,Open weights (unrestricted),model_metadata,False,146.72890840430082,bayes_refit
+Qwen3.7-Max,2026-05-19,2026-05-19,1,2,1,Alibaba,API access,model_metadata,False,154.52926733178109,bayes_refit
+Qwen3.7-Plus,2026-06-02,2026-06-02,1,2,1,Alibaba,API access,model_metadata,False,147.92313362418903,bayes_refit
+Qwen3.8 Max (0902),2026-09-01,2026-09-01,1,2,1,Alibaba,API access,model_metadata,False,156.00161256430525,bayes_refit
+RedPajama-INCITE-7B-Base,2023-05-04,2023-05-04,1,1,0,unknown,,unknown,False,56.47348363927474,bayes_refit
+Stable Beluga 2,2023-07-20,2023-07-20,1,1,1,Stability AI,Open weights (non-commercial),model_metadata,False,109.06924913698175,bayes_refit
+StarCoder 2 15B,2024-02-20,2024-02-20,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,95.58482899958689,bayes_refit
+StarCoder 2 3B,2024-02-22,2024-02-22,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,65.39168784252755,bayes_refit
+StarCoder 2 7B,2024-02-20,2024-02-20,1,1,1,"Hugging Face,ServiceNow,Nvidia,BigCode",Open weights (restricted use),model_metadata,False,71.44375664935588,bayes_refit
+XGen-7B,2023-06-27,2023-06-27,1,1,1,Salesforce,Open weights (unrestricted),model_metadata,False,69.25967470365583,bayes_refit
+Yi 6B,2023-11-22,2023-11-02,2,2,1,01.AI,Open weights (restricted use),model_metadata,False,93.74717876901761,bayes_refit
+Yi-9B,2024-03-01,2024-03-01,1,1,0,unknown,,unknown,False,101.6266075746018,bayes_refit
+chatglm2-6b,2023-06-24,2023-06-24,1,1,0,unknown,,unknown,False,72.74243771629541,bayes_refit
+gpt-oss-120b,2025-08-05,2025-08-05,1,9,1,OpenAI,Open weights (unrestricted),model_metadata,False,140.1275583424248,bayes_refit
+gpt-oss-20b,2025-08-05,2025-08-05,1,5,1,OpenAI,Open weights (unrestricted),model_metadata,False,134.84634972199498,bayes_refit
+internlm-20b,2023-09-18,2023-09-18,1,1,0,unknown,,unknown,False,98.34351939065671,bayes_refit
+internlm-7b,2023-07-05,2023-07-05,1,1,0,unknown,,unknown,False,83.83685029091627,bayes_refit
+o1,2024-12-17,2024-12-17,1,4,1,OpenAI,API access,model_metadata,False,141.15020715277095,bayes_refit
+o1-mini,2024-09-12,2024-09-12,1,4,1,OpenAI,API access,model_metadata,False,135.22524915788296,bayes_refit
+o1-preview,2024-09-12,2024-09-12,1,1,1,OpenAI,API access,model_metadata,False,133.5054499155434,bayes_refit
+o3,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata,False,147.01420054218585,bayes_refit
+o3-mini,2025-01-31,2025-01-31,1,4,1,OpenAI,API access,model_metadata,False,140.57935294146395,bayes_refit
+o3-pro,2025-06-10,2025-06-10,1,4,1,OpenAI,API access,model_metadata,False,147.48115037866467,bayes_refit
+o4-mini,2025-04-16,2025-04-16,1,4,1,OpenAI,API access,model_metadata,False,145.17046077222173,bayes_refit
+open_llama_7b,2023-06-07,2023-06-07,1,1,0,unknown,,unknown,False,63.15972189124993,bayes_refit
+phi-3-medium 14B,2024-04-23,2024-04-23,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,113.8616163651331,bayes_refit
+phi-3-mini 3.8B,2024-04-23,2024-04-23,1,2,1,Microsoft,Open weights (unrestricted),model_metadata,False,110.14819565254054,bayes_refit
+phi-3-small 7.4B,2024-04-23,2024-04-23,1,1,1,Microsoft,Open weights (unrestricted),model_metadata,False,116.09531633289514,bayes_refit
+vicuna-13b-v1.1,2023-04-12,2023-04-12,1,1,0,unknown,,unknown,False,75.2437412022131,bayes_refit

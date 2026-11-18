@@ -1,0 +1,394 @@
+{
+  "retrieved_at_utc": "2026-11-14T01:11:21.7808359Z",
+  "task_date_chicago": "2026-11-13",
+  "source": "https://epoch.ai/data/benchmark_data.zip",
+  "file": "benchmark_data_2026-11-13.zip",
+  "sha256": "66001629a0e32166db36c4d31e681137a3857f213658cd0d18e3dd287ea637c2",
+  "bytes": 2311563,
+  "data_vintage": "Snapshot retrieved 2026-11-13 America/Chicago; not an authenticated 2026-11-03 historical vintage",
+  "eci_repository": "https://github.com/epoch-research/eci-public",
+  "eci_commit": "e04929ab751531e558b1a61e86f436487c710ef8",
+  "eci_commit_time": "2026-11-03T17:13:12Z",
+  "model_metadata_rows": 1253,
+  "model_metadata_columns": [
+    "model_version",
+    "model_group",
+    "date",
+    "display_name",
+    "organization",
+    "country",
+    "accessibility",
+    "training_compute_flop"
+  ],
+  "zip_entries": [
+    {
+      "name": "README.md",
+      "bytes": 582
+    },
+    {
+      "name": "gpqa_diamond.csv",
+      "bytes": 174351
+    },
+    {
+      "name": "math_level_5.csv",
+      "bytes": 49104
+    },
+    {
+      "name": "swe_bench_verified.csv",
+      "bytes": 16671
+    },
+    {
+      "name": "otis_mock_aime_2024_2025.csv",
+      "bytes": 160778
+    },
+    {
+      "name": "frontiermath.csv",
+      "bytes": 36580
+    },
+    {
+      "name": "frontiermath_tier_4.csv",
+      "bytes": 21777
+    },
+    {
+      "name": "frontiermath_tiers_1_3_v2.csv",
+      "bytes": 51145
+    },
+    {
+      "name": "frontiermath_tier_4_v2.csv",
+      "bytes": 31145
+    },
+    {
+      "name": "ebr_bench.csv",
+      "bytes": 6866
+    },
+    {
+      "name": "simpleqa_verified.csv",
+      "bytes": 45283
+    },
+    {
+      "name": "chess_puzzles.csv",
+      "bytes": 74870
+    },
+    {
+      "name": "mystery_game_puzzles.csv",
+      "bytes": 39281
+    },
+    {
+      "name": "mirrorcode.csv",
+      "bytes": 16261
+    },
+    {
+      "name": "frontiermath_erdos.csv",
+      "bytes": 3412
+    },
+    {
+      "name": "furniture_assembly.csv",
+      "bytes": 10102
+    },
+    {
+      "name": "spireclimb.csv",
+      "bytes": 2580
+    },
+    {
+      "name": "spireclimb_sts1_a20_heart.csv",
+      "bytes": 2076
+    },
+    {
+      "name": "spireclimb_sts2_a10.csv",
+      "bytes": 2233
+    },
+    {
+      "name": "aider_polyglot_external.csv",
+      "bytes": 27739
+    },
+    {
+      "name": "balrog_external.csv",
+      "bytes": 19160
+    },
+    {
+      "name": "weirdml_external.csv",
+      "bytes": 51531
+    },
+    {
+      "name": "weirdml_v3_external.csv",
+      "bytes": 10860
+    },
+    {
+      "name": "vpct_external.csv",
+      "bytes": 9136
+    },
+    {
+      "name": "fictionlivebench_external.csv",
+      "bytes": 26068
+    },
+    {
+      "name": "geobench_external.csv",
+      "bytes": 15298
+    },
+    {
+      "name": "simplebench_external.csv",
+      "bytes": 30170
+    },
+    {
+      "name": "gdpval_external.csv",
+      "bytes": 2806
+    },
+    {
+      "name": "gdp_pdf_external.csv",
+      "bytes": 13721
+    },
+    {
+      "name": "metr_time_horizons_external.csv",
+      "bytes": 18705
+    },
+    {
+      "name": "deepresearchbench_external.csv",
+      "bytes": 8408
+    },
+    {
+      "name": "terminalbench_external.csv",
+      "bytes": 65747
+    },
+    {
+      "name": "frontierswe_external.csv",
+      "bytes": 6731
+    },
+    {
+      "name": "frontiercode_external.csv",
+      "bytes": 10829
+    },
+    {
+      "name": "cursorbench_external.csv",
+      "bytes": 14937
+    },
+    {
+      "name": "scicode_external.csv",
+      "bytes": 60554
+    },
+    {
+      "name": "osworld_2_external.csv",
+      "bytes": 2870
+    },
+    {
+      "name": "gbaeval_external.csv",
+      "bytes": 8693
+    },
+    {
+      "name": "posttrainbench_external.csv",
+      "bytes": 4045
+    },
+    {
+      "name": "gso_external.csv",
+      "bytes": 10502
+    },
+    {
+      "name": "webdev_arena_external.csv",
+      "bytes": 31383
+    },
+    {
+      "name": "video_mme_external.csv",
+      "bytes": 12967
+    },
+    {
+      "name": "adversarial_nli_external.csv",
+      "bytes": 7856
+    },
+    {
+      "name": "arc_agi_external.csv",
+      "bytes": 70057
+    },
+    {
+      "name": "arc_ai2_external.csv",
+      "bytes": 47496
+    },
+    {
+      "name": "bbh_external.csv",
+      "bytes": 27620
+    },
+    {
+      "name": "bool_q_external.csv",
+      "bytes": 57081
+    },
+    {
+      "name": "cad_eval_external.csv",
+      "bytes": 5518
+    },
+    {
+      "name": "common_sense_qa_2_external.csv",
+      "bytes": 3537
+    },
+    {
+      "name": "cybench_external.csv",
+      "bytes": 10969
+    },
+    {
+      "name": "gsm8k_external.csv",
+      "bytes": 61569
+    },
+    {
+      "name": "hella_swag_external.csv",
+      "bytes": 43332
+    },
+    {
+      "name": "lambada_external.csv",
+      "bytes": 20880
+    },
+    {
+      "name": "lech_mazur_writing_external.csv",
+      "bytes": 27283
+    },
+    {
+      "name": "live_bench_external.csv",
+      "bytes": 21283
+    },
+    {
+      "name": "mmlu_external.csv",
+      "bytes": 79823
+    },
+    {
+      "name": "open_book_qa_external.csv",
+      "bytes": 27871
+    },
+    {
+      "name": "os_world_external.csv",
+      "bytes": 9434
+    },
+    {
+      "name": "piqa_external.csv",
+      "bytes": 44827
+    },
+    {
+      "name": "science_qa_external.csv",
+      "bytes": 16537
+    },
+    {
+      "name": "superglue_external.csv",
+      "bytes": 3281
+    },
+    {
+      "name": "the_agent_company_external.csv",
+      "bytes": 9425
+    },
+    {
+      "name": "trivia_qa_external.csv",
+      "bytes": 42584
+    },
+    {
+      "name": "wino_grande_external.csv",
+      "bytes": 53104
+    },
+    {
+      "name": "apex_agents_external.csv",
+      "bytes": 12544
+    },
+    {
+      "name": "arc_agi_2_external.csv",
+      "bytes": 57437
+    },
+    {
+      "name": "hle_external.csv",
+      "bytes": 14159
+    },
+    {
+      "name": "exploitbench_external.csv",
+      "bytes": 3123
+    },
+    {
+      "name": "cl_bench_external.csv",
+      "bytes": 6892
+    },
+    {
+      "name": "cl_bench_life_external.csv",
+      "bytes": 4875
+    },
+    {
+      "name": "rli_external.csv",
+      "bytes": 3255
+    },
+    {
+      "name": "algotune_external.csv",
+      "bytes": 3887
+    },
+    {
+      "name": "ale_bench_external.csv",
+      "bytes": 29762
+    },
+    {
+      "name": "forecastbench_external.csv",
+      "bytes": 29697
+    },
+    {
+      "name": "critpt_external.csv",
+      "bytes": 53204
+    },
+    {
+      "name": "vending_bench_2_external.csv",
+      "bytes": 11343
+    },
+    {
+      "name": "surface_evolver_bench_external.csv",
+      "bytes": 8417
+    },
+    {
+      "name": "deepswe_external.csv",
+      "bytes": 20634
+    },
+    {
+      "name": "blueprint_bench_2_external.csv",
+      "bytes": 7198
+    },
+    {
+      "name": "mindcube_external.csv",
+      "bytes": 1124
+    },
+    {
+      "name": "spatialviz_bench_external.csv",
+      "bytes": 3740
+    },
+    {
+      "name": "proofbench_external.csv",
+      "bytes": 29583
+    },
+    {
+      "name": "btf3_external.csv",
+      "bytes": 3541
+    },
+    {
+      "name": "enigma_eval_external.csv",
+      "bytes": 15403
+    },
+    {
+      "name": "lmca_external.csv",
+      "bytes": 40703
+    },
+    {
+      "name": "dtbench_external.csv",
+      "bytes": 56499
+    },
+    {
+      "name": "epoch_capabilities_index/eci_scores.csv",
+      "bytes": 31525
+    },
+    {
+      "name": "epoch_capabilities_index/edi_scores.csv",
+      "bytes": 4005
+    },
+    {
+      "name": "epoch_capabilities_index/processed_data_for_eci.csv",
+      "bytes": 365141
+    },
+    {
+      "name": "epoch_capabilities_index/eci_bootstraps.json",
+      "bytes": 3681328
+    },
+    {
+      "name": "benchmark_metadata.csv",
+      "bytes": 6392
+    },
+    {
+      "name": "model_metadata.csv",
+      "bytes": 132548
+    }
+  ],
+  "execution_status": "No ECI refit or public-data analysis executed in this preparation pass"
+}

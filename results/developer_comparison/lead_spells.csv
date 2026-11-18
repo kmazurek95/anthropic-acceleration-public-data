@@ -1,0 +1,10 @@
+start,end,days,model,source
+2024-03-01,2024-04-08,39,Claude 3 Opus,least_squares
+2024-06-20,2024-09-11,84,Claude 3.5 Sonnet,least_squares
+2026-06-09,2026-09-02,86,Claude Fable 5,least_squares
+2024-03-01,2024-04-08,39,Claude 3 Opus,epoch_published
+2024-06-20,2024-09-11,84,Claude 3.5 Sonnet,epoch_published
+2026-06-09,2026-09-02,86,Claude Fable 5,epoch_published
+2024-03-01,2024-04-08,39,Claude 3 Opus,bayes_refit
+2024-06-20,2024-09-11,84,Claude 3.5 Sonnet,bayes_refit
+2026-06-09,2026-09-02,86,Claude Fable 5,bayes_refit

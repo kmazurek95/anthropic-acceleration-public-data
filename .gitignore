@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Per-draw tables: regenerated in seconds from the shipped score draws
+results/robustness/posterior_draw_ratios.csv
+results/developer_comparison/developer_ratios_draws.csv.gz
+results/developer_comparison/step_and_catchup_per_draw.csv.gz
+results/developer_comparison/slope_vs_step_window_end_per_draw.csv.gz
+
+# Epoch data zips: kept out of the repo until redistribution is settled (see data/README.md).
+# Both input zips by name, then any zip under data/ or inputs/ as a backstop.
+data/benchmark_data_2026-11-13_wayback-20261113150458.zip
+data/benchmark_data_2026-11-13.zip
+inputs/benchmark_data_2026-11-13_wayback-20261113150458.zip
+inputs/benchmark_data_2026-11-13.zip
+data/**/*.zip
+inputs/**/*.zip
